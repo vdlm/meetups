@@ -14,8 +14,24 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 ## Resources
 
-| #  | Date       | Place             | Topic               | Link                 | Video |
-|:--:|:----------:|:-----------------:|:-------------------:|:--------------------:|:-----:|
-| 1  | 2016-00-00 | Sector 5          | intro               | [more](./Meetup_1/)  | 
-| 18 | 2018-05-07 | TU Wien           | Ethics & Bias in AI | [more](./Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8)
-| 19 | 2018-06-07 | A1 Telekom Austria| Visual Computin     | [more](./Meetup_19/) | 
+| #  | Date       | Place             | Topic               | Link                         | Video |
+|:--:|:----------:|:-----------------:|:-------------------:|:----------------------------:|:-----:|
+| 1  | 2016-00-00 | Sector 5          | intro               | [more](./Meetups/Meetup_1/)  | 
+| 2  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_2/)  | 
+| 3  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_3/)  | 
+| 4  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_4/)  | 
+| 5  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_5/)  | 
+| 6  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_6/)  | 
+| 7  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_7/)  | 
+| 8  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_8/)  | 
+| 9  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_9/)  | 
+| 10 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_10/) | 
+| 11 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_11/) | 
+| 12 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_12/) | 
+| 13 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_13/) | 
+| 14 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_14/) | 
+| 15 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_15/) | 
+| 16 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_16/) | 
+| 17 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_17/) | 
+| 18 | 2018-05-07 | TU Wien           | Ethics & Bias in AI | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8)
+| 19 | 2018-06-07 | A1 Telekom Austria| Visual Computin     | [more](./Meetups/Meetup_19/) | 
