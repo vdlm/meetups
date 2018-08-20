@@ -40,7 +40,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 | Date       | Speaker              | Topic                                     | Slides                       | 
 |:----------:|:--------------------:|:-----------------------------------------:|:----------------------------:|
-| 2016-04-07 | Thomas Lidy          | An overview presentation of Deep Learning | [pdf]                        | 
-| 2016-04-07 | Jan Schlüter         | History, Approaches, Applications         | [pdf]                        | 
+| 2016-04-07 | Thomas Lidy          | An overview presentation of Deep Learning | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) | 
+| 2016-04-07 | Jan Schlüter         | History, Approaches, Applications         | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) | 
 | 2016-05-09 | Alex Champandard     | Neural Networks for Image Synthesis       | [pdf]                        | 
 | 2016-05-09 | Gregor Mitscha-Baude | Recurrent Neural Networks                 | [pdf]                        | 
