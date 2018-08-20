@@ -5,7 +5,6 @@
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/
 
 
-<<<<<<< HEAD
 # Details
 
 Deep Learning is fueling more and more use cases in the AI domain. This time we have 2 interesting talks about how personalized product search is powered by Deep Learning:
@@ -52,4 +51,3 @@ Please help us prepare it:
 - let us know your expectations, your background, your questions, your experience ...
 
 Thank you and see you soon!
->>>>>>> master
