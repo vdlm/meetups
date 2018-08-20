@@ -1,8 +1,8 @@
 # First Deep Learning Meetup in Vienna
 
-* Date: 2016-04-07
-* Venue: sektor5
-* Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/
+* Date: 2018-06-07
+* Venue: A1 Telekom Austria
+* Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/
 
 
 # Details
