@@ -45,3 +45,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2016-05-09 | Alex Champandard     | Neural Networks for Image Synthesis       | [pdf]                        | 
 | 2016-05-09 | Gregor Mitscha-Baude | Recurrent Neural Networks                 | [pdf](./Meetups/Meetup_2/slides/2nd_meetup_RNN_presentation.pdf)  | 
 | 2016-06-06 | Jan Schlüter         | Open-source Deep Learning with Theano and Lasagne | [pdf](./Meetups/Meetup_3/slides/3rd_Deep_Learning_Meetup_Intro.pdf) | 
+| 2016-09-22 | Josef Puchinger      | Deep Learning & The Future of Automation  |  | 
+| 2016-09-22 | Christoph Körner     | Going Deeper with GoogLeNet and CaffeJS   |  | 
+| 2016-10-12 | Benjamin Freundorfer | An Intro to Neural Networks  |  | 
+| 2016-10-12 | Kornél Kis           | Deep learning in practice - a Text-to-Speech system built with neural networks |  | 
+| 2016-09-22 |  |  |  | 
