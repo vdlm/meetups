@@ -15,7 +15,7 @@ Visual Computing: then and now [Slides](slides/Computer Vision - then and now.pd
 Deep Learning had a tremendous impact on the visual computing domain. Error rates on image processing tasks dropped significantly and are still declining. In addition to this gain in accuracy, the complexity of the classification systems, as well as the skills and knowledge required, also decreased. In this short intro to our Visual Computing focused evening, Alexander Schindler will provide a brief introduction to traditional image processing approaches and put them in contrast to bleeding-edge image-labelling approaches to illustrate the simplification and elegance of Deep Learning models.
 
 Talk 1:
-Fast, Accurate And Customized Visual Similarity Search On Real-world Images [Slides](slides/Styria - Deep Learning Meetup Vienna.pdf)
+Fast, Accurate And Customized Visual Similarity Search On Real-world Images [Slides](vdlm/meetups/slides/Styria - Deep Learning Meetup Vienna.pdf)
 
 The first talk is given by Enes Deumić, Senior Data Scientist at Styria.ai and his colleague Vedran Vekić, Data Scientist at Styria.ai. They will present how they implemented visual search (search by image) on Willhaben.at, the biggest Austrian online second hand sales portal. To train their own classifiers using convolutional neural networks, data from the portal’s database was used, containing high amounts of noise and impurities. This data was not tagged but instead organized into categories incorporated into a hierarchy tree. The visual search system was built based on these classifiers. The entire system was built in stages including the users’ feedback in each stage. Due to that, the system significantly evolved over time, now empowering product search on Willhaben.at
 
