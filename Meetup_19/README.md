@@ -1,4 +1,4 @@
-# First Deep Learning Meetup in Vienna
+# 19th Deep Learning Meetup in Vienna
 
 * Date: 2018-06-07
 * Venue: A1 Telekom Austria
