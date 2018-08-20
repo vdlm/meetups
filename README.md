@@ -17,8 +17,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | #  | Date       | Place             | Topic               | Link                         | Video |
 |:--:|:----------:|:-----------------:|:-------------------:|:----------------------------:|:-----:|
 | 1  | 2016-04-07 | Sector 5          | intro               | [more](./Meetups/Meetup_1/)  | 
-| 2  | 2016-05-09 |                   |                     | [more](./Meetups/Meetup_2/)  | 
-| 3  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_3/)  | 
+| 2  | 2016-05-09 | Sector 5          |                     | [more](./Meetups/Meetup_2/)  | 
+| 3  | 2016-06-06 | Sector 5          |                     | [more](./Meetups/Meetup_3/)  | 
 | 4  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_4/)  | 
 | 5  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_5/)  | 
 | 6  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_6/)  | 
@@ -43,4 +43,5 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2016-04-07 | Thomas Lidy          | An overview presentation of Deep Learning | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) | 
 | 2016-04-07 | Jan Schlüter         | History, Approaches, Applications         | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) | 
 | 2016-05-09 | Alex Champandard     | Neural Networks for Image Synthesis       | [pdf]                        | 
-| 2016-05-09 | Gregor Mitscha-Baude | Recurrent Neural Networks                 | [pdf]                        | 
+| 2016-05-09 | Gregor Mitscha-Baude | Recurrent Neural Networks                 | [pdf](./Meetups/Meetup_2/slides/2nd_meetup_RNN_presentation.pdf)  | 
+| 2016-06-06 | Jan Schlüter         | Open-source Deep Learning with Theano and Lasagne | [pdf](./Meetups/Meetup_3/slides/3rd_Deep_Learning_Meetup_Intro.pdf) | 
