@@ -5,6 +5,7 @@
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/
 
 
+<<<<<<< HEAD
 # Details
 
 Deep Learning is fueling more and more use cases in the AI domain. This time we have 2 interesting talks about how personalized product search is powered by Deep Learning:
@@ -32,3 +33,23 @@ We are thankful for A1 Telekom to host this meetup in particular Stephan Wöber 
 
 Looking forward to welcoming you.
 Tom, Jan and Alex
+=======
+We are glad to announce the date of the
+
+FIRST DEEP LEARNING MEETUP IN VIENNA:
+
+April 7, 6:30 pm at sektor 5, Siebenbrunnengasse 44, Vienna
+
+We are very much looking forward to the first meetup of this group!
+
+We are planning to have
+
+- an overview presentation of Deep Learning - History, Approaches, Applications (by Thomas Lidy and Jan Schlüter)
+
+- an interactive workshop-like discussion about the interests of the people in this group
+
+Please help us prepare it:
+- let us know your expectations, your background, your questions, your experience ...
+
+Thank you and see you soon!
+>>>>>>> master
