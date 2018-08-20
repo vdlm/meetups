@@ -5,6 +5,7 @@
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/
 * Web page: http://www.aiethics.cisvienna.com
 
+![poster][Poster_landscape.jpg]
 
 # Details
 
