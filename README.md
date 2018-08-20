@@ -12,12 +12,12 @@ The Vienna Deep Learning meetup is positioned at the cross-over of research to i
 
 Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
 
-## Resources
+## Meetups
 
 | #  | Date       | Place             | Topic               | Link                         | Video |
 |:--:|:----------:|:-----------------:|:-------------------:|:----------------------------:|:-----:|
-| 1  | 2016-00-00 | Sector 5          | intro               | [more](./Meetups/Meetup_1/)  | 
-| 2  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_2/)  | 
+| 1  | 2016-04-07 | Sector 5          | intro               | [more](./Meetups/Meetup_1/)  | 
+| 2  | 2016-05-09 |                   |                     | [more](./Meetups/Meetup_2/)  | 
 | 3  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_3/)  | 
 | 4  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_4/)  | 
 | 5  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_5/)  | 
@@ -35,3 +35,12 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 17 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_17/) | 
 | 18 | 2018-05-07 | TU Wien           | Ethics & Bias in AI | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8)
 | 19 | 2018-06-07 | A1 Telekom Austria| Visual Computin     | [more](./Meetups/Meetup_19/) | 
+
+# Talks
+
+| Date       | Speaker              | Topic                                     | Slides                       | 
+|:----------:|:--------------------:|:-----------------------------------------:|:----------------------------:|
+| 2016-04-07 | Thomas Lidy          | An overview presentation of Deep Learning | [pdf]                        | 
+| 2016-04-07 | Jan Schlüter         | History, Approaches, Applications         | [pdf]                        | 
+| 2016-05-09 | Alex Champandard     | Neural Networks for Image Synthesis       | [pdf]                        | 
+| 2016-05-09 | Gregor Mitscha-Baude | Recurrent Neural Networks                 | [pdf]                        | 
