@@ -1,6 +1,6 @@
 ![Logo](./Logo/dlmeetup_logo_150dpi.png "logo")
 
-# Overview
+## Overview
 
 Deep Learning is currently a big & growing trend in data analysis and prediction - and the main fuel of a new era of AI. Google, Facebook and others have shown tremendous success in pushing image, object & speech recognition to the next level.
 
@@ -13,6 +13,12 @@ We would like to meet and discuss the latest trends in Deep Learning, Neural Net
 The Vienna Deep Learning meetup is positioned at the cross-over of research to industry - having both a focus on novel methods that are published in such a fast pace, and interesting new applications in the startup and industry world. We usually have 2 speakers from either academia, startups or industry, complemented by a "latest news and hot topics" section. Occasionally we do tutorials about software frameworks and how to use Deep Learning in practice. Each evening ends with networking & discussions over drinks and snacks.
 
 Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
+
+## Resources
+
+* Meetup page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/
+* Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
+* Wiki: https://github.com/vdlm/meetups/wiki
 
 
 
@@ -37,7 +43,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 14 | 2017-11-20 | A1 Telekom Austria                 |                     | [more](./Meetups/Meetup_14/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
 | 15 | 2018-01-09 | weXelerate                         |                     | [more](./Meetups/Meetup_15/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
 | 16 | 2018-02-27 | A1 Telekom Austria                 |                     | [more](./Meetups/Meetup_16/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
-| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   |                     | [more](./Meetups/Meetup_17/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
+| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   |                     | [more](./Meetups/Meetup_17/) | [Youtube](https://www.youtube.com/watch?v=8mCO9w9Cgqs) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
 | 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
 | 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing    | [more](./Meetups/Meetup_19/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
 
