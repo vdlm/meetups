@@ -14,27 +14,28 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 ## Meetups
 
-| #  | Date       | Place             | Topic               | Link                         | Video | Meetup.com |
-|:--:|:----------:|:-----------------:|:-------------------:|:----------------------------:|:-----:|:----------:|
-| 1  | 2016-04-07 | Sector 5          | intro               | [more](./Meetups/Meetup_1/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
-| 2  | 2016-05-09 | Sector 5          |                     | [more](./Meetups/Meetup_2/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
-| 3  | 2016-06-06 | Sector 5          |                     | [more](./Meetups/Meetup_3/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/) 
-| 4  | 2016-07-07 | TU Wien           |                     | [more](./Meetups/Meetup_4/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/)
-| 5  | 2016-09-22 | Automic Software GmbH |                 | [more](./Meetups/Meetup_5/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/233441928/)
-| 6  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_6/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/234619135/)
-| 7  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_7/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/235236383/)
-| 8  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_8/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/236612043/)
-| 9  | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_9/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/237040996/)
-| 10 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_10/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/238204828/)
-| 11 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_11/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)
-| 12 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_12/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/)
-| 13 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_13/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
-| 14 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_14/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
-| 15 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_15/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
-| 16 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_16/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
-| 17 | 20xx-xx-xx |                   |                     | [more](./Meetups/Meetup_17/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
-| 18 | 2018-05-07 | TU Wien           | Ethics & Bias in AI | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
-| 19 | 2018-06-07 | A1 Telekom Austria| Visual Computin     | [more](./Meetups/Meetup_19/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
+| #  | Date       | Place                              | Topic               | Link                         | Video | Meetup.com |
+|:--:|:----------:|:----------------------------------:|:-------------------:|:----------------------------:|:-----:|:----------:|
+| 1  | 2016-04-07 | Sector 5                           | intro               | [more](./Meetups/Meetup_1/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
+| 2  | 2016-05-09 | Sector 5                           |                     | [more](./Meetups/Meetup_2/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
+| 3  | 2016-06-06 | Sector 5                           |                     | [more](./Meetups/Meetup_3/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/) 
+| 4  | 2016-07-07 | TU Wien                            |                     | [more](./Meetups/Meetup_4/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/)
+| 5  | 2016-09-22 | Automic Software GmbH              |                     | [more](./Meetups/Meetup_5/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/233441928/)
+| 6  | 2016-10-12 | Sector 5                           |                     | [more](./Meetups/Meetup_6/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/234619135/)
+| 7  | 2016-12-01 | Agentur Virtual Identity           |                     | [more](./Meetups/Meetup_7/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/235236383/)
+| 8  | 2017-01-17 | TU Wien Informatik                 |                     | [more](./Meetups/Meetup_8/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/236612043/)
+| 9  | 2017-02-21 | bwin.party services (Austria) GmbH |                     | [more](./Meetups/Meetup_9/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/237040996/)
+| 10 | 2017-03-23 | Automic Software GmbH              |                     | [more](./Meetups/Meetup_10/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/238204828/)
+| 11 | 2017-05-17 | Casinos Austria Innovation Hub     |                     | [more](./Meetups/Meetup_11/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)
+| 12 | 2017-06-20 | FH Technikum Wien                  |                     | [more](./Meetups/Meetup_12/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/)
+| AI | 2017-09-04 | WU-Wien                            | AI-Summit           | [more](./Meetups/AI_Summit/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)
+| 13 | 20xx-xx-xx |                                    |                     | [more](./Meetups/Meetup_13/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
+| 14 | 20xx-xx-xx |                                    |                     | [more](./Meetups/Meetup_14/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
+| 15 | 20xx-xx-xx |                                    |                     | [more](./Meetups/Meetup_15/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
+| 16 | 20xx-xx-xx |                                    |                     | [more](./Meetups/Meetup_16/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
+| 17 | 20xx-xx-xx |                                    |                     | [more](./Meetups/Meetup_17/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
+| 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
+| 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computin     | [more](./Meetups/Meetup_19/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
 
 # Talks
 
@@ -47,6 +48,23 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2016-06-06 | Jan Schlüter         | Open-source Deep Learning with Theano and Lasagne | [pdf](./Meetups/Meetup_3/slides/3rd_Deep_Learning_Meetup_Intro.pdf) | 
 | 2016-09-22 | Josef Puchinger      | Deep Learning & The Future of Automation  |  | 
 | 2016-09-22 | Christoph Körner     | Going Deeper with GoogLeNet and CaffeJS   |  | 
-| 2016-10-12 | Benjamin Freundorfer | An Intro to Neural Networks  |  | 
+| 2016-10-12 | Benjamin Freundorfer | An Intro to Neural Networks               |  | 
 | 2016-10-12 | Kornél Kis           | Deep learning in practice - a Text-to-Speech system built with neural networks |  | 
+| 2016-12-01 | Sabria Lagoun        | How can we learn from Neuroscience?       |  | 
+| 2016-12-01 | Kornél Kis           | Convolutional Neural Networks: Applications and a short timeline |  | 
+| 2017-01-17 | Thomas Lidy          | Full Networks, CNNs, RNNs (on images, music/speech) |  | 
+| 2017-02-21 | Philipp Omenitsch    | Visionlabs: Face Recognition for Businesses |  | 
+| 2017-02-21 | Alexander Schindler  | Coding in Keras: Hard-Disk Failure Prediction with SMART data using RNNs |  | 
+| 2017-03-23 | Oleg Leizerov        | Deep Learning for Self-Driving Cars         |  | 
+| 2017-05-17 | Peter Ruch           | A Comparison of Deep Learning Frameworks for Distributed Training |  | 
+| 2017-05-17 | Ana Jalali           | An Introduction to Bidirectional LSTM-HMM for Sound Event Detection |  | 
+| 2017-06-20 | Philipp Kranen       | Microsoft Cognitive Toolkit and Applications in Image Object Recognition |  | 
+| 2017-06-20 | Michal Šustr         | Generative Adversarial Networks             |  | 
+| 2017-09-04 | Sepp Hochreiter      | Deep Learning is Evolving into the Key Technology of Artificial Intelligence |  | 
+| 2017-09-04 | Tomáš Mikolov        | Neural Networks for Natural Language Processing |  | 
+| 2017-09-04 | Dave Elliott         | Machine Learning with Google Cloud |  | 
+| 2017-09-04 | Calvin Seward        | Deep Learning: More Than Classification |  | 
+| 2017-09-04 | Ulla Kruhse-Lehtonen | Seizing the Machine Learning Opportunity |  | 
+| 2016-09-22 |  |  |  | 
+| 2016-09-22 |  |  |  | 
 | 2016-09-22 |  |  |  | 
