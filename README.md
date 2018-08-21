@@ -43,39 +43,39 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 |:----------:|:----------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
 | 2016-04-07 | Thomas Lidy            | An overview presentation of Deep Learning                                      | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) | 
 | 2016-04-07 | Jan Schlüter           | History, Approaches, Applications                                              | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) | 
-| 2016-05-09 | Alex Champandard       | Neural Networks for Image Synthesis                                            | [pdf]                        | 
+| 2016-05-09 | Alex Champandard       | Neural Networks for Image Synthesis                                            |                              | 
 | 2016-05-09 | Gregor Mitscha-Baude   | Recurrent Neural Networks                                                      | [pdf](./Meetups/Meetup_2/slides/2nd_meetup_RNN_presentation.pdf)  | 
-| 2016-06-06 | Jan Schlüter           | Open-source Deep Learning with Theano and Lasagne                              | [pdf](./Meetups/Meetup_3/slides/3rd_Deep_Learning_Meetup_Intro.pdf) | 
+| 2016-06-06 | Jan Schlüter           | Open-source Deep Learning with Theano and Lasagne                              | [pdf](./Meetups/Meetup_3/slides/lasagne_dl_meetup.pdf) | 
 | 2016-09-22 | Josef Puchinger        | Deep Learning & The Future of Automation                                       |  | 
 | 2016-09-22 | Christoph Körner       | Going Deeper with GoogLeNet and CaffeJS                                        |  | 
-| 2016-10-12 | Benjamin Freundorfer   | An Intro to Neural Networks                                                    |  | 
-| 2016-10-12 | Kornél Kis             | Deep learning in practice - a Text-to-Speech system built with neural networks |  | 
-| 2016-12-01 | Sabria Lagoun          | How can we learn from Neuroscience?                                            |  | 
+| 2016-10-12 | Benjamin Freundorfer   | An Intro to Neural Networks                                                    | [pdf](./Meetups/Meetup_6/slides/dl_meetup_ben_freundorfer_neuralnets_presentation.pdf) | 
+| 2016-10-12 | Kornél Kis             | Deep learning in practice - a Text-to-Speech system built with neural networks | [pdf](./Meetups/Meetup_6/slides/Deep_learning_in_practice_Kornel_Kis.pdf) | 
+| 2016-12-01 | Sabria Lagoun          | How can we learn from Neuroscience?                                            | [pdf](./Meetups/Meetup_7/slides/Sabria_Lagoun_Exploring_Neural_Networks_in_Vivo.pdf) | 
 | 2016-12-01 | Kornél Kis             | Convolutional Neural Networks: Applications and a short timeline               |  | 
-| 2017-01-17 | Thomas Lidy            | Full Networks, CNNs, RNNs (on images, music/speech)                            |  | 
-| 2017-02-21 | Philipp Omenitsch      | Visionlabs: Face Recognition for Businesses                                    |  | 
+| 2017-01-17 | Thomas Lidy            | Full Networks, CNNs, RNNs (on images, music/speech)                            | [Github](https://github.com/tuwien-musicir/DL_Tutorial#installation-of-pre-requisites) | 
+| 2017-02-21 | Philipp Omenitsch      | Visionlabs: Face Recognition for Businesses                                    | [pdf](./Meetups/Meetup_9/slides/Face_Recognition_VisionLabs.pdf) | 
 | 2017-02-21 | Alexander Schindler    | Coding in Keras: Hard-Disk Failure Prediction with SMART data using RNNs       |  | 
-| 2017-03-23 | Oleg Leizerov          | Deep Learning for Self-Driving Cars                                            |  | 
-| 2017-05-17 | Peter Ruch             | A Comparison of Deep Learning Frameworks for Distributed Training              |  | 
-| 2017-05-17 | Ana Jalali             | An Introduction to Bidirectional LSTM-HMM for Sound Event Detection            |  | 
-| 2017-06-20 | Philipp Kranen         | Microsoft Cognitive Toolkit and Applications in Image Object Recognition       |  | 
-| 2017-06-20 | Michal Šustr           | Generative Adversarial Networks                                                |  | 
+| 2017-03-23 | Oleg Leizerov          | Deep Learning for Self-Driving Cars                                            | [google](https://docs.google.com/presentation/d/1_lokYIDfHF83Zl3lCGuezMU-gvRzh1DQJba-TLXKRjA/pub?start=false&loop=false&delayms=3000#slide=id.g1f0c8c99b7_0_557) | 
+| 2017-05-17 | Peter Ruch             | A Comparison of Deep Learning Frameworks for Distributed Training              | [pdf](./Meetups/Meetup_11/slides/Distributed_Deep_Learning.pdf) | 
+| 2017-05-17 | Ana Jalali             | An Introduction to Bidirectional LSTM-HMM for Sound Event Detection            | [pdf](./Meetups/Meetup_11/slides/BLSTM-HMM_ViennaDeepLearning.pdf) | 
+| 2017-06-20 | Philipp Kranen         | Microsoft Cognitive Toolkit and Applications in Image Object Recognition       | [pdf](./Meetups/Meetup_12/slides/CNTK_Vienna_DL_meetup.pdf) | 
+| 2017-06-20 | Michal Šustr           | Generative Adversarial Networks                                                | [pdf](./Meetups/Meetup_12/slides/0000_GAN-MLMU.pdf) | 
 | 2017-09-04 | Sepp Hochreiter        | Deep Learning is Evolving into the Key Technology of Artificial Intelligence   |  | 
 | 2017-09-04 | Tomáš Mikolov          | Neural Networks for Natural Language Processing                                |  | 
 | 2017-09-04 | Dave Elliott           | Machine Learning with Google Cloud                                             |  | 
 | 2017-09-04 | Calvin Seward          | Deep Learning: More Than Classification                                        |  | 
 | 2017-09-04 | Ulla Kruhse-Lehtonen   | Seizing the Machine Learning Opportunity                                       |  | 
-| 2017-10-24 | Yufeng Guo             | TensorFlow Wide & Deep: Data Classification the easy way                       |  | 
-| 2017-10-24 | Valentyn Boreiko       | One Model To Learn Them All                                                    |  | 
-| 2017-11-20 | Lukáš Vrabel           | Evolution of Image Search @ Seznam.cz                                          |  | 
-| 2018-01-09 | Alexander Hirner       | Transfer Learning for fun and profit                                           |  | 
-| 2018-01-09 | Rene Donner            | Deep Learning on 3D Medical Image Data at Contextflow                          |  | 
-| 2018-02-27 | Navid Rekabsaz         | Demystifying Neural Word Embedding: Applications in Financial Sentiment Analysis, and Gender Bias Detection |  | 
-| 2018-02-27 | Christoph Bonitz       | Review of Andrew Ng’s Deep Learning Specialization on Coursera                 |  | 
-| 2018-04-23 | Anouk Visser           | Birds.ai: AI to provide a bird’s-eye view                                      |  | 
-| 2018-04-23 | Christoph Goetz        | ImageBiopsyLab: Enhancing the medical expert - how to help doctors with AI     |  | 
+| 2017-10-24 | Yufeng Guo             | TensorFlow Wide & Deep: Data Classification the easy way                       | [pdf](./Meetups/Meetup_13/slides/Google_TensorFlow_WideDeep.pdf) | 
+| 2017-10-24 | Valentyn Boreiko       | One Model To Learn Them All                                                    | [pdf](./Meetups/Meetup_13/slides/Valentyn_Boreiko_slides.pdf) | 
+| 2017-11-20 | Lukáš Vrabel           | Evolution of Image Search @ Seznam.cz                                          | [pdf](./Meetups/Meetup_14/slides/Seznam_Vrabel_dlv-imgsearch.pdf) | 
+| 2018-01-09 | Alexander Hirner       | Transfer Learning for fun and profit                                           | [pdf](./Meetups/Meetup_15/slides/20180109_DL_meetup_contextflow-1_to_share.pdf) | 
+| 2018-01-09 | Rene Donner            | Deep Learning on 3D Medical Image Data at Contextflow                          | [pdf](./Meetups/Meetup_15/slides/Moonvision_DL_VIE_Transfer_Learning_e.pdf) | 
+| 2018-02-27 | Navid Rekabsaz         | Demystifying Neural Word Embedding: Applications in Financial Sentiment Analysis, and Gender Bias Detection | [pdf](./Meetups/Meetup_16/slides/andrew_ng_course_review.pdf) | 
+| 2018-02-27 | Christoph Bonitz       | Review of Andrew Ng’s Deep Learning Specialization on Coursera                 | [pdf](./Meetups/Meetup_16/slides/demystifying_word_embedding.pdf) | 
+| 2018-04-23 | Anouk Visser           | Birds.ai: AI to provide a bird’s-eye view                                      | [pdf](./Meetups/Meetup_17/slides/birds.ai_DeepLearningVienna.pdf) | 
+| 2018-04-23 | Christoph Goetz        | ImageBiopsyLab: Enhancing the medical expert - how to help doctors with AI     | [pdf](./Meetups/Meetup_17/slides/20180423_ImageBiopsyLab_Deep_Learning_Meetup.pdf) | 
 | 2018-05-07 | Moshe Vardi            | Deep Learning and the Crisis of Trust in Computing                             |  | 
 | 2018-05-07 | Sarah Spiekermann-Hoff | The Big Data Illusion and its Impact on Flourishing with General AI            |  | 
-| 2018-06-07 | Alexander Schindler    |  Visual Computing: then and now                                                |  | 
-| 2018-06-07 | Enes Deumić, Vedran Vekić | Fast, Accurate And Customized Visual Similarity Search On Real-world Images |  | 
-| 2018-06-07 | Matthias Hecker        | Mon Style - Machine Learning in the Fashion Domain                             |  | 
+| 2018-06-07 | Alexander Schindler    |  Visual Computing: then and now                                                | [pdf](./Meetups/Meetup_17/slides/2_Computer_Vision_then_and_now.pdf) | 
+| 2018-06-07 | Enes Deumić, Vedran Vekić | Fast, Accurate And Customized Visual Similarity Search On Real-world Images | [pdf](./Meetups/Meetup_17/slides/3_Styria.pdf) | 
+| 2018-06-07 | Matthias Hecker        | Mon Style - Machine Learning in the Fashion Domain                             | [pdf](./Meetups/Meetup_17/slides/4_Mon_Style_and_TUWien.pdf) | 
