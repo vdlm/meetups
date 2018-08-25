@@ -27,7 +27,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music analysis combined with machine learning at TU Wien since 2004. He is now the Head of Machine Learning at Musimap, a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlueter** has been pursuing research on deep learning for audio processing since 2010, currently as a postdoctoral researcher at the Austrian Research Institute for Artificial Intelligence (OFAI). |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander researches** audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. |
-|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **Rene Donner" |
+|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **Rene Donner** |
 
 
 ## Meetups
