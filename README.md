@@ -20,32 +20,39 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 * Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
 * Wiki: https://github.com/vdlm/meetups/wiki
 
+## Your Hosts
+
+|   |   |
+|:-:|:-:|
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "logo")| Thomas Lidy has been a researcher in music analysis combined with machine learning at TU Wien since 2004. He is now the Head of Machine Learning at Musimap, a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
+
 
 
 ## Meetups
 
-| #  | Date       | Place                              | Topic               | Link                         | Video | Meetup.com |
-|:--:|:----------:|:----------------------------------:|:-------------------:|:----------------------------:|:-----:|:----------:|
-| 1  | 2016-04-07 | Sector 5                           | intro               | [more](./Meetups/Meetup_1/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
-| 2  | 2016-05-09 | Sector 5                           |                     | [more](./Meetups/Meetup_2/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
-| 3  | 2016-06-06 | Sector 5                           |                     | [more](./Meetups/Meetup_3/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/) 
-| 4  | 2016-07-07 | TU Wien                            |                     | [more](./Meetups/Meetup_4/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/)
-| 5  | 2016-09-22 | Automic Software GmbH              |                     | [more](./Meetups/Meetup_5/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/233441928/)
-| 6  | 2016-10-12 | Sector 5                           |                     | [more](./Meetups/Meetup_6/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/234619135/)
-| 7  | 2016-12-01 | Agentur Virtual Identity           |                     | [more](./Meetups/Meetup_7/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/235236383/)
-| 8  | 2017-01-17 | TU Wien Informatik                 |                     | [more](./Meetups/Meetup_8/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/236612043/)
-| 9  | 2017-02-21 | bwin.party services (Austria) GmbH |                     | [more](./Meetups/Meetup_9/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/237040996/)
-| 10 | 2017-03-23 | Automic Software GmbH              |                     | [more](./Meetups/Meetup_10/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/238204828/)
-| 11 | 2017-05-17 | Casinos Austria Innovation Hub     |                     | [more](./Meetups/Meetup_11/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)
-| 12 | 2017-06-20 | FH Technikum Wien                  |                     | [more](./Meetups/Meetup_12/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/)
-| AI | 2017-09-04 | WU-Wien                            | AI-Summit           | [more](./Meetups/AI_Summit/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)
-| 13 | 2017-10-24 | Marx Palast                        |                     | [more](./Meetups/Meetup_13/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
-| 14 | 2017-11-20 | A1 Telekom Austria                 |                     | [more](./Meetups/Meetup_14/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
-| 15 | 2018-01-09 | weXelerate                         |                     | [more](./Meetups/Meetup_15/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
-| 16 | 2018-02-27 | A1 Telekom Austria                 |                     | [more](./Meetups/Meetup_16/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
-| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   |                     | [more](./Meetups/Meetup_17/) | [Youtube](https://www.youtube.com/watch?v=8mCO9w9Cgqs) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
-| 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
-| 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing    | [more](./Meetups/Meetup_19/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
+| #  | Date       | Place                              | Topic                  | Link                         | Video | Meetup.com |
+|:--:|:----------:|:----------------------------------:|:----------------------:|:----------------------------:|:-----:|:----------:|
+| 1  | 2016-04-07 | Sector 5                           | intro                  | [more](./Meetups/Meetup_1/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
+| 2  | 2016-05-09 | Sector 5                           |                        | [more](./Meetups/Meetup_2/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
+| 3  | 2016-06-06 | Sector 5                           |                        | [more](./Meetups/Meetup_3/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/) 
+| 4  | 2016-07-07 | TU Wien                            |                        | [more](./Meetups/Meetup_4/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/)
+| 5  | 2016-09-22 | Automic Software GmbH              |                        | [more](./Meetups/Meetup_5/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/233441928/)
+| 6  | 2016-10-12 | Sector 5                           |                        | [more](./Meetups/Meetup_6/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/234619135/)
+| 7  | 2016-12-01 | Agentur Virtual Identity           |                        | [more](./Meetups/Meetup_7/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/235236383/)
+| 8  | 2017-01-17 | TU Wien Informatik                 |                        | [more](./Meetups/Meetup_8/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/236612043/)
+| 9  | 2017-02-21 | bwin.party services (Austria) GmbH |                        | [more](./Meetups/Meetup_9/)  |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/237040996/)
+| 10 | 2017-03-23 | Automic Software GmbH              |                        | [more](./Meetups/Meetup_10/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/238204828/)
+| 11 | 2017-05-17 | Casinos Austria Innovation Hub     |                        | [more](./Meetups/Meetup_11/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)
+| 12 | 2017-06-20 | FH Technikum Wien                  |                        | [more](./Meetups/Meetup_12/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/)
+| AI | 2017-09-04 | WU-Wien                            | AI-Summit              | [more](./Meetups/AI_Summit/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)
+| 13 | 2017-10-24 | Marx Palast                        |                        | [more](./Meetups/Meetup_13/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
+| 14 | 2017-11-20 | A1 Telekom Austria                 |                        | [more](./Meetups/Meetup_14/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
+| 15 | 2018-01-09 | weXelerate                         |                        | [more](./Meetups/Meetup_15/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
+| 16 | 2018-02-27 | A1 Telekom Austria                 |                        | [more](./Meetups/Meetup_16/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
+| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   |                        | [more](./Meetups/Meetup_17/) | [Youtube](https://www.youtube.com/watch?v=8mCO9w9Cgqs) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
+| 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI    | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
+| 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
+| 20 | 2018-09-18 | WKO AUSSENWIRTSCHAFT AUSTRIA       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |       | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
 
 # Talks
 
