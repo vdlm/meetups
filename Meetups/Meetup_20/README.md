@@ -25,7 +25,7 @@ The state of public discourse about robots taking over human jobs is ambivalent 
 In this talk Budapest based Peter Ferenczy will share his enthusiasm and go in technical depth to illustrate the evolution of Deep Learning techniques to demystify how computers got so successful in competitive games like Go, Chess, Shogi and Dota. We will start with the basics of Reinforcement Learning, take a look at neural network architectures used, understand Transfer Learning and a few extras like how it's possible to democratize a relatively resource intensive training process.
 Peter is an avid Go player and the Hungarian translator of the original Dota game, and is running an AI Dojo in Budapest.
 
-**Hot Topics:**
+**Hot Topics:** ([slides](./slides/1_Intro_Announcements_Hot_Topics.pdf))
 Rene Donner, Head of Machine Learning & Engineering at Contextflow and Alexander Schindler, Data Scientist at the Austrian Institute of Technology, will report from recent advances in Deep Learning.
 
 Join us for networking & discussions in the break and after the talks.
