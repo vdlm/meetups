@@ -17,7 +17,7 @@ Eric Steinberger
 
 This talk, given by Deep Reinforcement Learning researcher Eric Steinberger, is about learning from experience. Deep Reinforcement Learning is a subfield of AI that deals with learning from interactions with a simulator. Famous results of Deep RL include AlphaGo, and more recently OpenAI Five, an AI that crushed ex-pros in 5v5 Dota 2. Behind these results are algorithms that make use of batches of environment interaction (i.e. observation+reward pairs) and try to make the best of it. RL presents many challenges that make supervised learning look like a walk in the park: the data distribution changes as the model changes, we can't use model regularization, training in an imperfect simulation of the real world, and how should the AI explore efficiently to find good strategies? Many of these challenges have good solutions to-date, but Deep RL is still a very active field of research.
 
-**Talk 2:**
+**Talk 2:** ([Slides](./slides/3_They_Grow_Up_So_Fast.pdf))
 They Grow Up So Fast
 Peter Ferenczy
 
