@@ -53,8 +53,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 16 | 2018-02-27 | A1 Telekom Austria                 |                        | [more](./Meetups/Meetup_16/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
 | 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   |                        | [more](./Meetups/Meetup_17/) | [Youtube](https://www.youtube.com/watch?v=8mCO9w9Cgqs) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
 | 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI    | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
-| 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
-| 20 | 2018-09-18 | WKO AUSSENWIRTSCHAFT AUSTRIA       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
+| 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       | [photos](https://photos.app.goo.gl/hjgCkFfbeHkTyN1X6)   | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
+| 20 | 2018-09-18 | WKO AUSSENWIRTSCHAFT AUSTRIA       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
 | 21 | 2018-10-15 | Marx Palast       | Music & Audio | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
 
 # Talks & Presentations
