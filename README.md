@@ -46,7 +46,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 10 | 2017-03-23 | Automic Software GmbH              |                        | [more](./Meetups/Meetup_10/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/238204828/)
 | 11 | 2017-05-17 | Casinos Austria Innovation Hub     |                        | [more](./Meetups/Meetup_11/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)
 | 12 | 2017-06-20 | FH Technikum Wien                  |                        | [more](./Meetups/Meetup_12/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/)
-| AI | 2017-09-04 | WU-Wien                            | AI-Summit              | [more](./Meetups/AI_Summit/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)
+| AI | 2017-09-04 | WU Wien                            | AI-Summit              | [more](./Meetups/AI_Summit/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)
 | 13 | 2017-10-24 | Marx Palast                        |                        | [more](./Meetups/Meetup_13/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
 | 14 | 2017-11-20 | A1 Telekom Austria                 |                        | [more](./Meetups/Meetup_14/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
 | 15 | 2018-01-09 | weXelerate                         |                        | [more](./Meetups/Meetup_15/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
@@ -55,8 +55,9 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI    | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
 | 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
 | 20 | 2018-09-18 | WKO AUSSENWIRTSCHAFT AUSTRIA       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
+| 21 | 2018-10-15 | Marx Palast       | Music & Audio | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
 
-# Talks
+# Talks & Presentations
 
 | Date       | MU# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
