@@ -56,6 +56,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       | [photos](https://photos.app.goo.gl/hjgCkFfbeHkTyN1X6)   | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
 | 20 | 2018-09-18 | WKO AUSSENWIRTSCHAFT AUSTRIA       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
 | 21 | 2018-10-15 | Marx Palast       | Music & Audio | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
+| 22 | 2018-11-12 | A1 Telekom Austria       | AI strategies in the government | [more](./Meetups/Meetup_22/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
 
 # Talks & Presentations
 
@@ -100,4 +101,6 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-06-07 |  19 | Enes Deumić, Vedran Vekić | Fast, Accurate And Customized Visual Similarity Search On Real-world Images    | [pdf](./Meetups/Meetup_17/slides/3_Styria.pdf) |
 | 2018-06-07 |  19 | Matthias Hecker           | Mon Style - Machine Learning in the Fashion Domain                             | [pdf](./Meetups/Meetup_17/slides/4_Mon_Style_and_TUWien.pdf) |
 | 2018-09-18 | 20 | Eric Steinberger | Deep Reinforcement Learning: Learning Like a Baby Rather Than a Copier |  |
-| 2018-09-18 | 20 | Peter Ferenczy | They Grow Up So Fast |  |
+| 2018-09-18 | 20 | Peter Ferenczy | They Grow Up So Fast | [pdf](./Meetups/Meetup_21/slides/3_They_Grow_Up_So_Fast.pdf)  |
+| 2018-10-15 | 21 | Thomas Lidy and Alexander Schindler | Deep Learning for Music & Audio Analysis | [pdf](./Meetups/Meetup_21/slides/Lidy_Schindler_DL_for_Music_and_Audio.pdf)  |
+| 2018-10-15 | 21 | Peter Ferenczy | Drum Transcription via Joint Beat and Drum Modeling using Convolutional Recurrent Neural Networks | [pdf](./Meetups/Meetup_21/slides/Richard_Vogl_Drum_Transcription_deep_learning_meetup.pdf) |
