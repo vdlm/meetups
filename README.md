@@ -100,7 +100,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-06-07 |  19 | Alexander Schindler       | Visual Computing: then and now                                                 | [pdf](./Meetups/Meetup_17/slides/2_Computer_Vision_then_and_now.pdf) |
 | 2018-06-07 |  19 | Enes Deumić, Vedran Vekić | Fast, Accurate And Customized Visual Similarity Search On Real-world Images    | [pdf](./Meetups/Meetup_17/slides/3_Styria.pdf) |
 | 2018-06-07 |  19 | Matthias Hecker           | Mon Style - Machine Learning in the Fashion Domain                             | [pdf](./Meetups/Meetup_17/slides/4_Mon_Style_and_TUWien.pdf) |
-| 2018-09-18 | 20 | Eric Steinberger | Deep Reinforcement Learning: Learning Like a Baby Rather Than a Copier |  |
-| 2018-09-18 | 20 | Peter Ferenczy | They Grow Up So Fast | [pdf](./Meetups/Meetup_21/slides/3_They_Grow_Up_So_Fast.pdf)  |
+| 2018-09-18 | 20 | Eric Steinberger | Deep Reinforcement Learning: Learning Like a Baby Rather Than a Copier | [pdf](./Meetups/Meetup_20/slides/2_Eric_Steinberger_Deep_RL.pdf) |
+| 2018-09-18 | 20 | Peter Ferenczy | They Grow Up So Fast | [pdf](./Meetups/Meetup_20/slides/3_They_Grow_Up_So_Fast.pdf)  |
 | 2018-10-15 | 21 | Thomas Lidy and Alexander Schindler | Deep Learning for Music & Audio Analysis | [pdf](./Meetups/Meetup_21/slides/Lidy_Schindler_DL_for_Music_and_Audio.pdf)  |
 | 2018-10-15 | 21 | Peter Ferenczy | Drum Transcription via Joint Beat and Drum Modeling using Convolutional Recurrent Neural Networks | [pdf](./Meetups/Meetup_21/slides/Richard_Vogl_Drum_Transcription_deep_learning_meetup.pdf) |
