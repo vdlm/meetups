@@ -29,7 +29,7 @@ Richard Vogl, TU Wien & CP, JKU Linz
 When working with Deep Learning, we sometimes face the criticism of using arbitrarily designed black-box systems. However, incorporating domain knowledge into problem modeling and network architecture can improve the performance of trained models for complex tasks. This talk demonstrates this principle in the context of automatic drum transcription, where the goal is to extract a symbolic representation of drum note onsets from an audio signal.
 
 **Hot Topics:** 
-[[Slides ISMIR 2018](slides/DL_Meetup_-_ISMIR_2018_Hot_Topics.pdf), [Slides Other Hot Topics](slides/21st_Deep_Learning_Meetup_Intro_ Announcements_Hot_Topics)]
+[[Slides ISMIR 2018](slides/DL_Meetup_-_ISMIR_2018_Hot_Topics.pdf), [Slides Other Hot Topics](slides/21st_Deep_Learning_Meetup_Intro_ Announcements_Hot_Topics.pdf)]
 
 **ISMIR 2018:**
 This year’s main conference of the International Society of Music Information Retrieval (ISMIR 2018, http://ismir2018.ircam.fr) showed that Deep Learning is also advancing heavily the music analysis domain. As three of our hosts were at that conference, they are going to show a quick recap of novel approaches to various different tasks in the music analysis domain. Jan is going to present (remotely) his novel approach of Zero-Mean Convolutions for Level-Invariant Singing Voice Detection. Alex and Tom will follow with an overview of other “hot” new approaches.
