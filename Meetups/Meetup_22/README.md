@@ -4,7 +4,7 @@
 * Venue: FH Technikum Wien
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/
 
-* [Agenda + Annoucments slides](./slides/22nd_Deep Learning_Meetup_Agenda_Annoucments.pdf)
+* [Agenda and Announcements slides](./slides/22nd_Deep Learning_Meetup_Agenda_Announcements.pdf)
 
 ## Details
 
@@ -30,7 +30,7 @@ AI in the government and how we can have an influence**
 
 After the two presentations, we will have a panel discussion around how AI is positioned in the government. Is AI already used in the government? Why should the government act on legislation about AI? What other future implications arise?
 
-We will open the floor to our community for an interactive Q&A with our panelists, including parliamentarian Stephanie Cox, Florian Matusek, CCO, KiwiSecurity, Clemens Wasner, CEO and founder of enlite.ai and creator of AIAustria.com, and Prof. Allan Hanbury, Professor for Data Intelligence, TU Wien and Co-founder of Data Market Austria.
+We will open the floor to our community for an interactive Q&A with our panelists, including *parliamentarian Stephanie Cox, Florian Matusek, CCO, KiwiSecurity, Clemens Wasner, CEO and founder of enlite.ai and creator of AIAustria.com, and Prof. Allan Hanbury, Professor for Data Intelligence, TU Wien and Co-founder of Data Market Austria*.
 This is your chance to get your suggestions into parliament! What do *you* envision for the future of AI in Austria?
 
 We kindly thank FH Technikum Wien, in particular Thomas Faast (Innovationsmanagement), to host this evening and provide the venue and drinks & snacks.
