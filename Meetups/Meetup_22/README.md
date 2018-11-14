@@ -4,7 +4,7 @@
 * Venue: FH Technikum Wien
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/
 
-* [Agenda + Annoucments slides](slides/22nd_Deep Learning_Meetup_Agenda_Annoucments.pdf)
+* [Agenda + Annoucments slides](./slides/22nd_Deep Learning_Meetup_Agenda_Annoucments.pdf)
 
 ## Details
 
@@ -25,7 +25,8 @@ AI Strategy for Austria**
 As our second speaker, we will have Austrian parliamentarian Stephanie Cox. She will give insights on how policymakers decide (or don't decide) about how to use or regulate artificial intelligence and report on an interpellation
 ("Parlamentarische Anfrage") she filed (c.f. https://orf.at/stories/3062562/) as well as on a [strategy paper](http://www.stephaniecox.at/wp-content/uploads/2018/09/Forderungen_Strategie_KI_Oesterreich_Stephanie_Cox_ListePilz-1.pdf) she published.
 
-**Panel & Plenary Q&A**
+**Panel & Plenary Q&A:
+AI in the government and how we can have an influence**
 
 After the two presentations, we will have a panel discussion around how AI is positioned in the government. Is AI already used in the government? Why should the government act on legislation about AI? What other future implications arise?
 
