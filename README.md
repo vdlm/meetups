@@ -56,7 +56,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       | [photos](https://photos.app.goo.gl/hjgCkFfbeHkTyN1X6)  | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
 | 20 | 2018-09-18 | WKO Aussenwirtschaft Austria       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
 | 21 | 2018-10-15 | Marx Palast                        | Music & Audio          | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
-| 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
+| 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
 
 # Talks & Presentations
 
