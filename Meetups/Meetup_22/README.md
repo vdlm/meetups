@@ -30,11 +30,11 @@ AI in the government and how we can have an influence**
 
 After the two presentations, we will have a panel discussion around how AI is positioned in the government. Is AI already used in the government? Why should the government act on legislation about AI? What other future implications arise?
 
-We will open the floor to our community for an interactive Q&A with our panelists, including *parliamentarian Stephanie Cox, Florian Matusek, CCO, KiwiSecurity, Clemens Wasner, CEO and founder of enlite.ai and creator of AIAustria.com, and Prof. Allan Hanbury, Professor for Data Intelligence, TU Wien and Co-founder of Data Market Austria*.
+We will open the floor to our community for an interactive Q&A with our panelists, including **parliamentarian Stephanie Cox, Florian Matusek, CCO, KiwiSecurity, Clemens Wasner, CEO and founder of enlite.ai and creator of AIAustria.com, and Prof. Allan Hanbury, Professor for Data Intelligence, TU Wien and Co-founder of Data Market Austria**.
 This is your chance to get your suggestions into parliament! What do *you* envision for the future of AI in Austria?
 
 We kindly thank FH Technikum Wien, in particular Thomas Faast (Innovationsmanagement), to host this evening and provide the venue and drinks & snacks.
 
 We will also have Anexia again, who supported our last meetup and provide really nice Vienna Deep Learning Meetup T-Shirts to our community. Please come early, there are only 50 pieces left!
 
-(Disclaimer: We do not support or endorse any political party and receive neither monetary nor other benefits. Our aim with this evening is to provide insights in the political debate regarding the very important topic of Artificial Intelligence, its usage and ethics.)
+*(Disclaimer: We do not support or endorse any political party and receive neither monetary nor other benefits. Our aim with this evening is to provide insights in the political debate regarding the very important topic of Artificial Intelligence, its usage and ethics.)*
