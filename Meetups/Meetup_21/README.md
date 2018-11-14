@@ -1,6 +1,6 @@
 # 21st Deep Learning Meetup in Vienna
 
-* Date: 2018-06-07
+* Date: 2018-10-15
 * Venue: Marx Palast, Maria-Jacobi-Gasse 2, 1030 Vienna
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/
 
