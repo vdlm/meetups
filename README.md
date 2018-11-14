@@ -73,7 +73,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2016-10-12 |  6  | Kornél Kis                | Deep learning in practice - a Text-to-Speech system built with neural networks | [pdf](./Meetups/Meetup_6/slides/Deep_learning_in_practice_Kornel_Kis.pdf) |
 | 2016-12-01 |  7  | Sabria Lagoun             | How can we learn from Neuroscience?                                            | [pdf](./Meetups/Meetup_7/slides/Sabria_Lagoun_Exploring_Neural_Networks_in_Vivo.pdf) |
 | 2016-12-01 |  7  | Kornél Kis                | Convolutional Neural Networks: Applications and a short timeline               |  |
-| 2017-01-17 |  8  | Thomas Lidy               | Full Networks, CNNs, RNNs (on images, music/speech)                            | [Github](https://github.com/tuwien-musicir/DL_Tutorial#installation-of-pre-requisites) |
+| 2017-01-17 |  8  | Thomas Lidy               | Full Networks, CNNs, RNNs (on images, music/speech)                            | [Github](https://github.com/tuwien-musicir/DL_Tutorial#deep-learning-tutorial) |
 | 2017-02-21 |  9  | Philipp Omenitsch         | Visionlabs: Face Recognition for Businesses                                    | [pdf](./Meetups/Meetup_9/slides/Face_Recognition_VisionLabs.pdf) |
 | 2017-02-21 |  9  | Alexander Schindler       | Coding in Keras: Hard-Disk Failure Prediction with SMART data using RNNs       |  |
 | 2017-03-23 |  10 | Oleg Leizerov             | Deep Learning for Self-Driving Cars                                            | [google](https://docs.google.com/presentation/d/1_lokYIDfHF83Zl3lCGuezMU-gvRzh1DQJba-TLXKRjA/pub?start=false&loop=false&delayms=3000#slide=id.g1f0c8c99b7_0_557) |
