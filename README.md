@@ -34,7 +34,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 | #  | Date       | Venue                              | Topic                  | Content                         | Video | Photos | Meetup.com |
 |:--:|:----------:|:----------------------------------:|:----------------------:|:----------------------------:|:-----:|:------:|:----------:|
-| 1  | 2016-04-07 | Sektor 5                           | Introduction to Deep Learning | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
+| 1  | 2016-04-07 | Sektor 5                           | Deep Learning - History, Approaches, Applications | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
 | 2  | 2016-05-09 | Sektor 5                           |                        | [more](./Meetups/Meetup_2/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
 | 3  | 2016-06-06 | Sektor 5                           |                        | [more](./Meetups/Meetup_3/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/)
 | 4  | 2016-07-07 | TU Wien                            |                        | [more](./Meetups/Meetup_4/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/)
@@ -62,8 +62,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 | Date       | MU# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| 2016-04-07 |  1  | Thomas Lidy               | An overview presentation of Deep Learning                                      | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
-| 2016-04-07 |  1  | Jan Schlüter              | History, Approaches, Applications                                              | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
+| 2016-04-07 |  1  | Thomas Lidy & Jan Schlüter     | Deep Learning: History, Approaches, Applications                          | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
 | 2016-05-09 |  2  | Alex Champandard          | Neural Networks for Image Synthesis                                            |                              |
 | 2016-05-09 |  2  | Gregor Mitscha-Baude      | Recurrent Neural Networks                                                      | [pdf](./Meetups/Meetup_2/slides/2nd_meetup_RNN_presentation.pdf)  |
 | 2016-06-06 |  3  | Jan Schlüter              | Open-source Deep Learning with Theano and Lasagne                              | [pdf](./Meetups/Meetup_3/slides/lasagne_dl_meetup.pdf) |
