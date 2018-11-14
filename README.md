@@ -34,7 +34,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 | #  | Date       | Venue                              | Topic                  | Content                         | Video | Photos | Meetup.com |
 |:--:|:----------:|:----------------------------------:|:----------------------:|:----------------------------:|:-----:|:------:|:----------:|
-| 1  | 2016-04-07 | Sektor 5                           | intro                  | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
+| 1  | 2016-04-07 | Sektor 5                           | Introduction to Deep Learning | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
 | 2  | 2016-05-09 | Sektor 5                           |                        | [more](./Meetups/Meetup_2/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
 | 3  | 2016-06-06 | Sektor 5                           |                        | [more](./Meetups/Meetup_3/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/)
 | 4  | 2016-07-07 | TU Wien                            |                        | [more](./Meetups/Meetup_4/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/)
@@ -47,16 +47,16 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 11 | 2017-05-17 | Casinos Austria Innovation Hub     | Distributed Deep Learning / Sound Event Detection | [more](./Meetups/Meetup_11/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)
 | 12 | 2017-06-20 | FH Technikum Wien                  | Microsoft CNTK & Image Object Recognition / GANs | [more](./Meetups/Meetup_12/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/)
 | AI | 2017-09-04 | WU Wien                            | AI Summit Vienna 2017  | [more](./Meetups/AI_Summit/) |  [videos](https://mostly.ai/summit/)    |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)
-| 13 | 2017-10-24 | Marx Palast                        | Google Tensorflow  | [more](./Meetups/Meetup_13/) |  [Youtube](https://youtu.be/GSMh5fw2Mjo)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
-| 14 | 2017-11-20 | A1 Telekom Austria                 | Image Search | [more](./Meetups/Meetup_14/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
+| 13 | 2017-10-24 | Marx Palast                        | Google Tensorflow      | [more](./Meetups/Meetup_13/) |  [Youtube](https://youtu.be/GSMh5fw2Mjo)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)
+| 14 | 2017-11-20 | A1 Telekom Austria                 | Image Search           | [more](./Meetups/Meetup_14/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)
 | 15 | 2018-01-09 | weXelerate                         | Transfer Learning / Visual Computing  | [more](./Meetups/Meetup_15/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)
-| 16 | 2018-02-27 | A1 Telekom Austria                 | Word Embedding / NLP  | [more](./Meetups/Meetup_16/) | [Youtube](https://youtu.be/tr1gs5CW4Rw)      |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
-| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   |  Visual Computing     | [more](./Meetups/Meetup_17/) | Youtube: [part1](https://www.youtube.com/watch?v=8mCO9w9Cgqs) [part2](https://www.youtube.com/watch?v=zPna-ip_WC8&t=106s) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
+| 16 | 2018-02-27 | A1 Telekom Austria                 | Word Embedding / NLP   | [more](./Meetups/Meetup_16/) | [Youtube](https://youtu.be/tr1gs5CW4Rw)      |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)
+| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   | Visual Computing       | [more](./Meetups/Meetup_17/) | Youtube: [part1](https://www.youtube.com/watch?v=8mCO9w9Cgqs) [part2](https://www.youtube.com/watch?v=zPna-ip_WC8&t=106s) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/)
 | 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI    | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/)
 | 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       | [photos](https://photos.app.goo.gl/hjgCkFfbeHkTyN1X6)  | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/)
-| 20 | 2018-09-18 | WKO Aussenwirtschaft Austria      | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
-| 21 | 2018-10-15 | Marx Palast       | Music & Audio | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
-| 22 | 2018-11-12 | FH Technikum Wien        | Video surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
+| 20 | 2018-09-18 | WKO Aussenwirtschaft Austria       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
+| 21 | 2018-10-15 | Marx Palast                        | Music & Audio          | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
+| 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
 
 # Talks & Presentations
 
@@ -100,7 +100,9 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-06-07 |  19 | Alexander Schindler       | Visual Computing: then and now                                                 | [pdf](./Meetups/Meetup_17/slides/2_Computer_Vision_then_and_now.pdf) |
 | 2018-06-07 |  19 | Enes Deumić, Vedran Vekić | Fast, Accurate And Customized Visual Similarity Search On Real-world Images    | [pdf](./Meetups/Meetup_17/slides/3_Styria.pdf) |
 | 2018-06-07 |  19 | Matthias Hecker           | Mon Style - Machine Learning in the Fashion Domain                             | [pdf](./Meetups/Meetup_17/slides/4_Mon_Style_and_TUWien.pdf) |
-| 2018-09-18 | 20 | Eric Steinberger | Deep Reinforcement Learning: Learning Like a Baby Rather Than a Copier | [pdf](./Meetups/Meetup_20/slides/2_Eric_Steinberger_Deep_RL.pdf) |
-| 2018-09-18 | 20 | Peter Ferenczy | They Grow Up So Fast | [pdf](./Meetups/Meetup_20/slides/3_They_Grow_Up_So_Fast.pdf)  |
-| 2018-10-15 | 21 | Thomas Lidy and Alexander Schindler | Deep Learning for Music & Audio Analysis | [pdf](./Meetups/Meetup_21/slides/Lidy_Schindler_DL_for_Music_and_Audio.pdf)  |
-| 2018-10-15 | 21 | Richard Vogl | Drum Transcription via Joint Beat and Drum Modeling using Convolutional Recurrent Neural Networks | [pdf](./Meetups/Meetup_21/slides/Richard_Vogl_Drum_Transcription_deep_learning_meetup.pdf) |
+| 2018-09-18 |  20 | Eric Steinberger          | Deep Reinforcement Learning: Learning Like a Baby Rather Than a Copier | [pdf](./Meetups/Meetup_20/slides/2_Eric_Steinberger_Deep_RL.pdf) |
+| 2018-09-18 |  20 | Peter Ferenczy            | They Grow Up So Fast | [pdf](./Meetups/Meetup_20/slides/3_They_Grow_Up_So_Fast.pdf)  |
+| 2018-10-15 |  21 | Thomas Lidy and Alexander Schindler | Deep Learning for Music & Audio Analysis | [pdf](./Meetups/Meetup_21/slides/Lidy_Schindler_DL_for_Music_and_Audio.pdf)  |
+| 2018-10-15 |  21 | Richard Vogl              | Drum Transcription via Joint Beat and Drum Modeling using Convolutional Recurrent Neural Networks | [pdf](./Meetups/Meetup_21/slides/Richard_Vogl_Drum_Transcription_deep_learning_meetup.pdf) |
+| 2018-11-12 |  22 | Michelangelo Fiore & Florian Matusek |  Deep Learning for Object Detection in Video Surveillance |  |
+| 2018-11-12 |  22 | Stephanie Cox             | AI Strategy for Austria | [strategy paper](http://www.stephaniecox.at/wp-content/uploads/2018/09/Forderungen_Strategie_KI_Oesterreich_Stephanie_Cox_ListePilz-1.pdf) |
