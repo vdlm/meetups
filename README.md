@@ -104,5 +104,5 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-09-18 |  20 | Peter Ferenczy            | They Grow Up So Fast | [pdf](./Meetups/Meetup_20/slides/3_They_Grow_Up_So_Fast.pdf)  |
 | 2018-10-15 |  21 | Thomas Lidy and Alexander Schindler | Deep Learning for Music & Audio Analysis | [pdf](./Meetups/Meetup_21/slides/Lidy_Schindler_DL_for_Music_and_Audio.pdf)  |
 | 2018-10-15 |  21 | Richard Vogl              | Drum Transcription via Joint Beat and Drum Modeling using Convolutional Recurrent Neural Networks | [pdf](./Meetups/Meetup_21/slides/Richard_Vogl_Drum_Transcription_deep_learning_meetup.pdf) |
-| 2018-11-12 |  22 | Michelangelo Fiore & Florian Matusek |  Deep Learning for Object Detection in Video Surveillance |  |
+| 2018-11-12 |  22 | Michelangelo Fiore & Florian Matusek |  Deep Learning for Object Detection in Video Surveillance | [pdf](./Meetups/Meetup_22/slides/KiwiSecurity.pdf) |
 | 2018-11-12 |  22 | Stephanie Cox             | AI Strategy for Austria | [strategy paper](http://www.stephaniecox.at/wp-content/uploads/2018/09/Forderungen_Strategie_KI_Oesterreich_Stephanie_Cox_ListePilz-1.pdf) |

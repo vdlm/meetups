@@ -15,6 +15,7 @@ The first talk will be given by KiwiSecurity, a Vienna-based company employing c
 **Talk 1:
 Deep Learning for Object Detection in Video Surveillance Applications**
 Michelangelo Fiore, Computer Vision Developer & Florian Matusek, CCO, KiwiSecurity
+[[Slides](./slides/KiwiSecurity.pdf)]
 
 In this talk, the speakers will give an overview of how KiwiSecurity is using Deep Learning for the task of people detection in video surveillance. In particular, the talk will focus on how real world constraints, such as more-than-real-time requirements, have impacted their choice in selecting Deep Learning frameworks and models, and how they have used the strategy of model pruning to improve the inference time of the video surveillance application.
 
