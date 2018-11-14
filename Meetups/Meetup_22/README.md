@@ -4,7 +4,7 @@
 * Venue: FH Technikum Wien
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/
 
-* [Agenda and Announcements slides](./slides/22nd_Deep Learning_Meetup_Agenda_Announcements.pdf)
+* Agenda and Announcements: [slides](./slides/22nd_Deep Learning_Meetup_Agenda_Announcements.pdf)
 
 ## Details
 
