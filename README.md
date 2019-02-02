@@ -25,7 +25,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 |   |   |
 |:-:|:-:|
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music analysis combined with machine learning at TU Wien since 2004. He is now the Head of Machine Learning at Musimap, a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlueter** has been pursuing research on deep learning for audio processing since 2010, currently as a postdoctoral researcher at the Austrian Research Institute for Artificial Intelligence (OFAI). |
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a postdoctoral researcher at the Austrian Research Institute for Artificial Intelligence (OFAI). |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. |
 |![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **Rene Donner** is the Head of Machine Learning & Engineering at medical image analysis startup Contextflow. |
 
@@ -57,6 +57,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 20 | 2018-09-18 | WKO Aussenwirtschaft Austria       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
 | 21 | 2018-10-15 | Marx Palast                        | Music & Audio          | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
 | 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
+| WA | 2018-12-04/05 | Hofburg Wien                    | WeAreDevelopers AI Congress | [more](https://www.wearedevelopers.com/ai-congress/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.wearedevelopers.com/ai-congress/)
+| 23 | 2019-01-31 | FH Technikum Wien                  | Explainable Deep Learning / NeurIPS Report | [more](./Meetups/Meetup_23/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258037672/)
 
 # Talks & Presentations
 
@@ -105,3 +107,5 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-10-15 |  21 | Richard Vogl              | Drum Transcription via Joint Beat and Drum Modeling using Convolutional Recurrent Neural Networks | [pdf](./Meetups/Meetup_21/slides/Richard_Vogl_Drum_Transcription_deep_learning_meetup.pdf) |
 | 2018-11-12 |  22 | Michelangelo Fiore & Florian Matusek |  Deep Learning for Object Detection in Video Surveillance | [pdf](./Meetups/Meetup_22/slides/KiwiSecurity.pdf) |
 | 2018-11-12 |  22 | Stephanie Cox             | AI Strategy for Austria | [strategy paper](http://www.stephaniecox.at/wp-content/uploads/2018/09/Forderungen_Strategie_KI_Oesterreich_Stephanie_Cox_ListePilz-1.pdf) |
+| 2019-01-31 |  23 | Ahmad Haj Mosa, Fabian Schneider |  Explainable Neural Symbolic Learning | [pdf](./Meetups/Meetup_23/slides/Explainable_Neural_Symbolic_Learning.pdf) |
+| 2019-01-31 |  23 | Rene Donner |  Interesting Papers & Trends from NeurIPS 2018 | [pdf](./Meetups/Meetup_23/slides/NeurIPS_Report_and_Announcements.pdf) |
