@@ -57,7 +57,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 20 | 2018-09-18 | WKO Aussenwirtschaft Austria       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/)
 | 21 | 2018-10-15 | Marx Palast                        | Music & Audio          | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/)
 | 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
-| WA | 2018-12-04/05 | Hofburg Wien                    | WeAreDevelopers AI Congress | [more](https://www.wearedevelopers.com/ai-congress/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.wearedevelopers.com/ai-congress/)
+| WA | 2018-12-04/05 | Hofburg Wien                    | WeAreDevelopers AI Congress | [more](https://www.wearedevelopers.com/ai-congress/) |       |        | [link](https://www.wearedevelopers.com/ai-congress/)
 | 23 | 2019-01-31 | FH Technikum Wien                  | Explainable Deep Learning / NeurIPS Report | [more](./Meetups/Meetup_23/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258037672/)
 
 # Talks & Presentations
