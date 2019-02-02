@@ -16,7 +16,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 ## Resources
 
-* Meetup page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/
+* Meetup page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/
 * Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
 * Wiki: https://github.com/vdlm/meetups/wiki
 
