@@ -59,6 +59,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/)
 | WA | 2018-12-04/05 | Hofburg Wien                    | WeAreDevelopers AI Congress | [more](https://www.wearedevelopers.com/ai-congress/) |       |        | [link](https://www.wearedevelopers.com/ai-congress/)
 | 23 | 2019-01-31 | FH Technikum Wien                  | Explainable Deep Learning / NeurIPS Report | [more](./Meetups/Meetup_23/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258037672/)
+| 24 | 2019-02-28 | T-Center Vienna                    | Ophthalmology / Computer Vision | [more](./Meetups/Meetup_24/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258957382/)
+| 25 | 2019-03-27 | A1 Telekom Austria                 | NLP | [more](./Meetups/Meetup_25/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/259357623/)
 
 # Talks & Presentations
 
@@ -109,3 +111,5 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-11-12 |  22 | Stephanie Cox             | AI Strategy for Austria | [strategy paper](http://www.stephaniecox.at/wp-content/uploads/2018/09/Forderungen_Strategie_KI_Oesterreich_Stephanie_Cox_ListePilz-1.pdf) |
 | 2019-01-31 |  23 | Ahmad Haj Mosa, Fabian Schneider |  Explainable Neural Symbolic Learning | [pdf](./Meetups/Meetup_23/slides/Explainable_Neural_Symbolic_Learning.pdf) |
 | 2019-01-31 |  23 | Rene Donner |  Interesting Papers & Trends from NeurIPS 2018 | [pdf](./Meetups/Meetup_23/slides/NeurIPS_Report_and_Announcements.pdf) |
+| 2019-02-28 |  24 | Hrvoje Bogunovic |  Deep Learning for Ophthalmology - Diagnosis and Treatment of Eye Disorders | [pdf](./Meetups/Meetup_24/slides/HB_DeepLearning_Ophthalmology.pdf) |
+| 2019-02-28 |  24 | Alexander Hirner |  Computer Vision Annotation Tool | [pdf](./Meetups/Meetup_24/slides/Annotation_Best_Practices_dl_vie.pdf) |
