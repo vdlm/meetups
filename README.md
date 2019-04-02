@@ -113,3 +113,5 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2019-01-31 |  23 | Rene Donner |  Interesting Papers & Trends from NeurIPS 2018 | [pdf](./Meetups/Meetup_23/slides/NeurIPS_Report_and_Announcements.pdf) |
 | 2019-02-28 |  24 | Hrvoje Bogunovic |  Deep Learning for Ophthalmology - Diagnosis and Treatment of Eye Disorders | [pdf](./Meetups/Meetup_24/slides/HB_DeepLearning_Ophthalmology.pdf) |
 | 2019-02-28 |  24 | Alexander Hirner |  Computer Vision Annotation Tool | [pdf](./Meetups/Meetup_24/slides/Annotation_Best_Practices_dl_vie.pdf) |
+| 2019-03-27 |  25 | Liad Magen |  An introduction to state of the art in NLP using Deep Learning | [pdf](./Meetups/Meetup_25/slides/NLP_State_of_the_art.pdf) |
+| 2019-03-27 |  25 | Jason Hoelscher-Obermaier |  Teaching machines to understand natural language conversations: a bag of tricks | [pdf](./Meetups/Meetup_25/slides/NLP_teaching_machines.pdf) |
