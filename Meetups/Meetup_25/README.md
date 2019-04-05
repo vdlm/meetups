@@ -4,7 +4,7 @@
 * Venue: A1 Telekom Austria
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/259357623/
 
-* Agenda and Announcements: [slides pdf](./slides/TODO-HotTopics.pdf)
+* Agenda and Announcements: [slides pdf](./slides/25th_DL_Meetup_Hot_Topics.pdf)
 
 ## Details
 
@@ -30,6 +30,6 @@ Natural language processing allows humans to talk to computer systems and thereb
 
 **Hot Topics and Latest News**
 by Thomas Lidy (Musimap)
-[[Slides](./slides/TODO-HotTopics.pdf)]
+[[Slides](./slides/25th_DL_Meetup_Hot_Topics.pdf)]
 
 This meetup is took place at A1 Telekom, we want to thank them for hosting us! 
