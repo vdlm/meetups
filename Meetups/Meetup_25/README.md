@@ -32,4 +32,4 @@ Natural language processing allows humans to talk to computer systems and thereb
 by Thomas Lidy (Musimap)
 [[Slides](./slides/25th_DL_Meetup_Hot_Topics.pdf)]
 
-This meetup is took place at A1 Telekom, we want to thank them for hosting us! 
+This meetup took place at A1 Telekom, we want to thank them for hosting us! 
