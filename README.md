@@ -1,3 +1,6 @@
+# Vienna Deep Learning Meetup
+## Slides & Resources
+
 ![Logo](./Logo/dlmeetup_logo_150dpi.png "logo")
 
 ## Overview
@@ -10,7 +13,7 @@ Although rooted in Neural Network research already in the 1950's, the current tr
 
 We would like to meet and discuss the latest trends in Deep Learning, Neural Networks and Machine Learning, and reflect the latest developments, both in industry and in research.
 
-The Vienna Deep Learning Meetup is positioned at the cross-over of research to industry - having both a focus on novel methods that are published in such a fast pace, and interesting new applications in the startup and industry world. We usually have 2 speakers from either academia, startups or industry, complemented by a "latest news and hot topics" section. Occasionally we do tutorials about software frameworks and how to use Deep Learning in practice. Each evening ends with networking & discussions over drinks and snacks.
+The **Vienna Deep Learning Meetup** is positioned at the cross-over of research to industry - having both a focus on novel methods that are published in such a fast pace, and interesting new applications in the startup and industry world. We usually have 2 speakers from either academia, startups or industry, complemented by a "latest news and hot topics" section. Occasionally we do tutorials about software frameworks and how to use Deep Learning in practice. Each evening ends with networking & discussions over drinks and snacks.
 
 Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
 
@@ -24,7 +27,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 |   |   |
 |:-:|:-:|
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music analysis combined with machine learning at TU Wien since 2004. He is now the Head of Machine Learning at Musimap, a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. He is now the Head of Machine Learning at [Musimap](http://www.musimap.net), a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a postdoctoral researcher at the Austrian Research Institute for Artificial Intelligence (OFAI). |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. |
 |![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **Rene Donner** is the Head of Machine Learning & Engineering at medical image analysis startup Contextflow. |
