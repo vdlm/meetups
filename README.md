@@ -64,6 +64,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 23 | 2019-01-31 | FH Technikum Wien                  | Explainable Deep Learning / NeurIPS Report | [more](./Meetups/Meetup_23/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258037672/)
 | 24 | 2019-02-28 | T-Center Vienna                    | Ophthalmology / Computer Vision | [more](./Meetups/Meetup_24/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258957382/)
 | 25 | 2019-03-27 | A1 Telekom Austria                 | NLP | [more](./Meetups/Meetup_25/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/259357623/)
+| 26 | 2019-04-29 | WKO Aussenwirtschaft Austria       | Putting DL in Production | [more](./Meetups/Meetup_26/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/260078175/)
+| 27 | 2019-05-22 | Bosch Wien                         | DL in Industry | [more](./Meetups/Meetup_27/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261011682/)
 
 # Talks & Presentations
 
@@ -113,8 +115,10 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2018-11-12 |  22 | Michelangelo Fiore & Florian Matusek |  Deep Learning for Object Detection in Video Surveillance | [pdf](./Meetups/Meetup_22/slides/KiwiSecurity.pdf) |
 | 2018-11-12 |  22 | Stephanie Cox             | AI Strategy for Austria | [strategy paper](http://www.stephaniecox.at/wp-content/uploads/2018/09/Forderungen_Strategie_KI_Oesterreich_Stephanie_Cox_ListePilz-1.pdf) |
 | 2019-01-31 |  23 | Ahmad Haj Mosa, Fabian Schneider |  Explainable Neural Symbolic Learning | [pdf](./Meetups/Meetup_23/slides/Explainable_Neural_Symbolic_Learning.pdf) |
-| 2019-01-31 |  23 | Rene Donner |  Interesting Papers & Trends from NeurIPS 2018 | [pdf](./Meetups/Meetup_23/slides/NeurIPS_Report_and_Announcements.pdf) |
-| 2019-02-28 |  24 | Hrvoje Bogunovic |  Deep Learning for Ophthalmology - Diagnosis and Treatment of Eye Disorders | [pdf](./Meetups/Meetup_24/slides/HB_DeepLearning_Ophthalmology.pdf) |
-| 2019-02-28 |  24 | Alexander Hirner |  Computer Vision Annotation Tool | [pdf](./Meetups/Meetup_24/slides/Annotation_Best_Practices_dl_vie.pdf) |
+| 2019-01-31 |  23 | Rene Donner               |  Interesting Papers & Trends from NeurIPS 2018 | [pdf](./Meetups/Meetup_23/slides/NeurIPS_Report_and_Announcements.pdf) |
+| 2019-02-28 |  24 | Hrvoje Bogunovic          |  Deep Learning for Ophthalmology - Diagnosis and Treatment of Eye Disorders | [pdf](./Meetups/Meetup_24/slides/HB_DeepLearning_Ophthalmology.pdf) |
+| 2019-02-28 |  24 | Alexander Hirner          |  Computer Vision Annotation Tool | [pdf](./Meetups/Meetup_24/slides/Annotation_Best_Practices_dl_vie.pdf) |
 | 2019-03-27 |  25 | Liad Magen |  An introduction to state of the art in NLP using Deep Learning | [pdf](./Meetups/Meetup_25/slides/NLP_State_of_the_art.pdf) |
 | 2019-03-27 |  25 | Jason Hoelscher-Obermaier |  Teaching machines to understand natural language conversations: a bag of tricks | [pdf](./Meetups/Meetup_25/slides/NLP_teaching_machines.pdf) |
+| 2019-04-29 |  26 | Simon Stiebellehner, Bernhard Redl |  Continuous Integration and Deployment for Machine Learning Applications | [pdf](./Meetups/Meetup_26/slides/ci-cd_for_ml_deep-learning-meetup_craftworks.pdf) |
+| 2019-04-29 |  26 | Jakob Klepp               | Computer Vision Models in Production | [pdf](./Meetups/Meetup_26/slides/Computer_Vision_models_in_production_moonvision.pdf) |
