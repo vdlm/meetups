@@ -15,7 +15,7 @@ Our 27th Deep Learning Meetup will take place at Bosch Wien. Consequently, we wi
 **Talk 1:
 Deep Learning for Predictive Quality & Predictive Maintenance**
 by Daniel Ressi, Data Scientist - craftworks
-[[Slides](./TODO)]
+[[Slides](./slides/27th-deep-learning-meetup-craftworks.pdf)]
 
 Artificial Intelligence plays a major role in Industry 4.0 and more industrial companies than ever are starting to utilize their data to gain value and insights. The industrial domain offers very promising opportunities but this potential also comes with very specific requirements and challenges.
 This talk gives insights into the characteristics of Industrial AI and how state of the art deep learning methods can be applied to solve complex problems and bring more value to companies. Based on real use cases, three common areas of Industrial AI and the applied modelling approaches will be presented:
@@ -27,7 +27,7 @@ This talk gives insights into the characteristics of Industrial AI and how state
 **Talk 2:
 Advances in Automotive In-Cabin Monitoring: Present & Future**
 by Florian Seitner, CEO and Michael Hödlmoser, CTO - emotion 3D
-[[Slides](./TODO)]
+[[Slides](./slides/DL_Meetup_Presentation_emotion3D.pdf]
 
 This talk will outline recent topics and challenges of in-cabin driver and passenger monitoring. After a quick introduction on driver monitoring in current and future automotive environments, we will provide an overview on vision-based monitoring functionalities that exploit recent advances in ML/DL. We will discuss challenges in developing automotive in-cabin monitoring systems and possible approaches on how to tackle them.
 
