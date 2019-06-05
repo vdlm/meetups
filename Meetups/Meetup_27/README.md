@@ -27,7 +27,7 @@ This talk gives insights into the characteristics of Industrial AI and how state
 **Talk 2:
 Advances in Automotive In-Cabin Monitoring: Present & Future**
 by Florian Seitner, CEO and Michael Hödlmoser, CTO - emotion 3D
-[[Slides](./slides/DL_Meetup_Presentation_emotion3D.pdf]
+[[Slides](./slides/DL_Meetup_Presentation_emotion3D.pdf)]
 
 This talk will outline recent topics and challenges of in-cabin driver and passenger monitoring. After a quick introduction on driver monitoring in current and future automotive environments, we will provide an overview on vision-based monitoring functionalities that exploit recent advances in ML/DL. We will discuss challenges in developing automotive in-cabin monitoring systems and possible approaches on how to tackle them.
 
