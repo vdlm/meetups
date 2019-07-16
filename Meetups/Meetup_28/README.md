@@ -4,7 +4,7 @@
 * Venue: Talent Garden Austria
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/
 
-* Agenda and Announcements: [slides pdf](./slides/TODO)]
+* Agenda and Announcements: [[Slides](./slides/28th_Deep_Learning_Meetup_Intro_Announcements_HotTopics.pdf)]
 
 ## Details
 
@@ -15,6 +15,7 @@ Our 28th Vienna Deep Learning Meetup is coming up, our last one before summer. W
 **Talk 1:
 Adversarial Machine Learning - An Introduction to Backdoor, Evasion and Inversion Attacks**
 by Rudolf Mayer, Senior Researcher, SBA Research & Lector, TU Wien
+[[Slides](./slides/20190624_VDLM_Adversarial_ML.pdf)]
 
 As Machine Learning is increasingly integrated in many applications, including safety critical ones such as autonomous cars, robotics, visual authentication and voice control, wrong predictions can have a significant influence on individuals and groups. Advances in prediction accuracy have been impressive, and while machine learning systems still can make rather unexpected mistakes on relatively easy examples, the robustness of algorithms has also steadily increased.
 
@@ -28,12 +29,14 @@ by Camillo Pachmann, CEO - MLreef
 **Talk 2:
 Deep Learning for Electrical Biosignals and their Application in Medical Products**
 by Franz Fürbass, Scientist in Biosignal Processing Group at Austrian Institute of Technology (AIT)
+[[Slides](./slides/Deep_Learning_for_Electrical_Biosignals.pdf)]
 
 Electrical biosignals are commonly used in diagnosis of cardiovascular and neurological diseases like atrial fibrillation or epilepsy. Strict regulatory rules slowed down innovation for a long time but now a large number of startups and large industry players like Phillips and Apple are rushing into the market. We will present our Deep Learning methods to analyse Electrocardiogram (ECG) and Electroencephalogram (EEG) signals and how they find their way into FDA/CE cleared devices and software.
 
 **Talk 3:
 Hot Topics / ICLR recap / Adversial Learning for Fairness, Domain Adaptation and Unsupervised Learning**
 by René Donner (contextflow)
+[[Slides](./slides/28th_Deep_Learning_Meetup_Intro_Announcements_HotTopics.pdf)]
 
 As usual, there will be plenty of opportunity to network & discuss Deep Learning issues in the break and after the talks, where our host Talent Garden kindly provides us with drinks and snacks.
 
