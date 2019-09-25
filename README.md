@@ -67,6 +67,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 26 | 2019-04-29 | WKO Aussenwirtschaft Austria       | Putting DL in Production | [more](./Meetups/Meetup_26/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/260078175/)
 | 27 | 2019-05-22 | Bosch Wien                         | DL in Industry | [more](./Meetups/Meetup_27/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261011682/)
 | 28 | 2019-06-24 | Talent Garden Austria              |  | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/)
+| 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/)
 
 
 # Talks & Presentations
@@ -126,3 +127,6 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2019-04-29 |  26 | Jakob Klepp               | Computer Vision Models in Production | [pdf](./Meetups/Meetup_26/slides/Computer_Vision_models_in_production_moonvision.pdf) |
 | 2019-05-22 |  27 | Daniel Ressi              | Deep Learning for Predictive Quality & Predictive Maintenance | [pdf](./Meetups/Meetup_27/slides/27th-deep-learning-meetup-craftworks.pdf) |
 | 2019-05-22 |  27 | Florian Seitner, Michael Hödlmoser  | Advances in Automotive In-Cabin Monitoring: Present & Future | [pdf](./Meetups/Meetup_27/slides/DL_Meetup_Presentation_emotion3D.pdf) |
+| 2019-09-24 |  29 | Jakub Mačina  | Deep Learning for Recommender Systems | [pdf](Meetups/Meetup_29/slides/DL_for_Recommender_Systems-Jakub_Macina.pdf) |
+  2019-09-24 |  29 | Michael Pieler  | The Fastai Deep Learning Library | [pdf](Meetups/Meetup_29/slides/fastai_introduction_29th-VDLM_20190924.pdf) |
+  2019-09-24 |  29 | Jakub Mačina  | RecSys2019 Review | [pdf](Meetups/Meetup_29/slides/RecSys2019_Review_Jakub_Macina.pdf) |
