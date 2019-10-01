@@ -66,8 +66,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 25 | 2019-03-27 | A1 Telekom Austria                 | NLP | [more](./Meetups/Meetup_25/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/259357623/)
 | 26 | 2019-04-29 | WKO Aussenwirtschaft Austria       | Putting DL in Production | [more](./Meetups/Meetup_26/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/260078175/)
 | 27 | 2019-05-22 | Bosch Wien                         | DL in Industry | [more](./Meetups/Meetup_27/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261011682/)
-| 28 | 2019-06-24 | Talent Garden Austria              |  | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/)
-| 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/)
+| 28 | 2019-06-24 | Talent Garden Austria              | Adverserial ML / Biosignals | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/)
+| 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |  [Youtube]( (https://www.youtube.com/watch?v=mTG-AZnhV10)   |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/)
 
 
 # Talks & Presentations
