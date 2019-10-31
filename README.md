@@ -35,8 +35,12 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 
 ## Meetups
 
-| #  | Date       | Venue                              | Topic                  | Content                         | Video | Photos | Meetup.com |
-|:--:|:----------:|:----------------------------------:|:----------------------:|:----------------------------:|:-----:|:------:|:----------:|
+| #    | Date | Venue | Topic | Content | Video | Photos | Meetup.com |
+| ---- | ---- | ----- | ----- | ------- | ----- | ------ | ---------- |
+|      |      |       |       |         |       |        |            |
+| :--: | :----------: | :----------------------------------: | :----------------------: | :----------------------------: | :-----: | :------: | :----------: |
+| ---- | ------------ | ------------------------------------ | ------------------------ | ------------------------------ | ------- | -------- | ------------ |
+|      |              |                                      |                          |                                |         |          |              |
 | 1  | 2016-04-07 | Sektor 5                           | Deep Learning - History, Approaches, Applications | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)
 | 2  | 2016-05-09 | Sektor 5                           | Image Synthesis / RNNs | [more](./Meetups/Meetup_2/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/)
 | 3  | 2016-06-06 | Sektor 5                           | Theano and Lasagne     | [more](./Meetups/Meetup_3/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/)
@@ -68,6 +72,8 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 27 | 2019-05-22 | Bosch Wien                         | DL in Industry | [more](./Meetups/Meetup_27/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261011682/)
 | 28 | 2019-06-24 | Talent Garden Austria              | Adverserial ML / Biosignals | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/)
 | 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |  [Youtube]( (https://www.youtube.com/watch?v=mTG-AZnhV10)   |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/)
+
+| 30| 2019-10-29 | A1 Telekom Austria                | Fake News | [more](./Meetups/Meetup_30/) |    |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/265369388/)
 
 
 # Talks & Presentations
