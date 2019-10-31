@@ -4,14 +4,14 @@
 * Venue: A1 Telekom Group Austria
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/265369388/
 
-* Agenda and Announcements: [[Slides](TODO))]
+* Agenda and Announcements: [[Slides](./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf)]
 
 ## Details
 
  Dear Deep Learners,
 
 Fake news is a big topic these days and most  likely you have also heard about Deep Fakes. At our next meetup on  October 29th we will have a special talk about Deep Fakes and fake news.  In addition, we will hear about Anomaly Detection with GANs.
-  
+
 
 **Talk 1:
 Fake News. From Shallow to Deep. How to create, detect and fight it.**
@@ -21,7 +21,7 @@ by Alexander Schindler, Research Scientist, Austrian Institute of Technology (AI
 Deep Fakes impressively demonstrated the potential of deep learning for  media production. This potential also raises concerns and fears that  this technology could be misused to create and disseminate  misinformation. The few well engineered examples available underline  these concerns and light-headed projects such as "Deep Nude" further  incite them. But how do these technologies work? Are there any flaws  that can be used to automatically detect fake media and are Deep Fakes  the only threats or are there more options to fake news? This talk will  provide an overview of approaches to fake news and how to detect those.
 
 Alexander  Schindler is a research scientist at Austrian Institute of Technology  (AIT) and member of the Music Information Retrieval Lab at the TU Wien.  His research fields are audio, audio-visual and multi/cross-modal  analysis of media.
-  
+
 
 **Talk 2:
 Anomaly Detection with GANs**
