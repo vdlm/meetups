@@ -1,4 +1,4 @@
-# 29th Deep Learning Meetup in Vienna
+# 30th Deep Learning Meetup in Vienna
 
 * Date: 2019-10-29
 * Venue: A1 Telekom Group Austria
@@ -8,7 +8,7 @@
 
 ## Details
 
- Dear Deep Learners,
+Dear Deep Learners,
 
 Fake news is a big topic these days and most  likely you have also heard about Deep Fakes. At our next meetup on  October 29th we will have a special talk about Deep Fakes and fake news.  In addition, we will hear about Anomaly Detection with GANs.
 
@@ -37,6 +37,3 @@ Thomas  Schlegl is a machine learning engineer and data scientist at  contextflo
  As usual we will feature latest news and hot topics about Deep Learning.  Moreover, Elisabeth Fink will present the best talks from the O'Reilly  AI conference in San Jose, CA in September.
 
 This meetup is kindly hosted by A1 Telekom.
-
-Looking forward to welcoming you,
-Tom, Alex, Jan, René  
