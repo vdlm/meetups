@@ -17,11 +17,14 @@ The **Vienna Deep Learning Meetup** is positioned at the cross-over of research 
 
 Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
 
+If you want to attend this meetup, sign up at our [Meetup page](https://www.meetup.com/Vienna-Deep-Learning-Meetup/). 
+
 ## Resources
 
+* [jump to latest slides](#latest_slides) [jump to latest](#latest)
 * Meetup page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/
-* Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
 * Wiki: https://github.com/vdlm/meetups/wiki
+* Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
 
 ## Your Hosts
 
@@ -38,7 +41,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | #    | Date | Venue | Topic | Content | Video | Photos | Meetup.com |
 | ---- | ---- | ----- | ----- | ------- | ----- | ------ | ---------- |
 |      |      |       |       |         |       |        |            |
-| 1          | 2016-04-07 | Sektor 5                           | Deep Learning - History, Approaches, Applications | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)  |
+| 1  | 2016-04-07 | Sektor 5                           | Deep Learning - History, Approaches, Applications | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)  |
 | 2  | 2016-05-09 | Sektor 5                           | Image Synthesis / RNNs | [more](./Meetups/Meetup_2/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/) |
 | 3  | 2016-06-06 | Sektor 5                           | Theano and Lasagne     | [more](./Meetups/Meetup_3/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/) |
 | 4  | 2016-07-07 | TU Wien                            |                        | [more](./Meetups/Meetup_4/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/) |
@@ -136,5 +139,7 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2019-09-24 |  29 | Michael Pieler  | The Fastai Deep Learning Library | [pdf](Meetups/Meetup_29/slides/fastai_introduction_29th-VDLM_20190924.pdf) |
 | 2019-09-24 |  29 | Jakub Mačina  | RecSys2019 Review | [pdf](Meetups/Meetup_29/slides/RecSys2019_Review_Jakub_Macina.pdf) |
 | ... | 
-| 2020-01-30 |  32 | Christoph Bonitz          | Self-Supervised Deep Learning | [pdf](<Meetups/Meetup_32/slides/Self-Supervised Learning - Bonitz.pdf>) |
+| [](#latest) 2020-01-30 |  32 | Christoph Bonitz          | Self-Supervised Deep Learning | [pdf](<Meetups/Meetup_32/slides/Self-Supervised Learning - Bonitz.pdf>) |
 | 2020-01-30 |  32 | René Donner               | Report from NeurIPS 2019      | [pdf](<Meetups/Meetup_32/slides/VDLM Neurips 2019 recap.pdf>) |
+
+<a name="latest_slides"/>
