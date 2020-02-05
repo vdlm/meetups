@@ -4,7 +4,7 @@
 * Venue: A1 Telekom Group Austria
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/265369388/
 
-* Agenda and Announcements: [[Slides](<./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
+* Agenda, Announcements and Hot Topics: [[Slides](<./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
 
 ## Details
 
@@ -33,7 +33,8 @@ by Thomas Schlegl, Machine learning Engineer and Data Scientist at contextflow
 Thomas  Schlegl is a machine learning engineer and data scientist at  contextflow GmbH - a company building an image search engine for  radiologists. His research interests focus on medical image analysis,  biostatistics, and multimodal learning of deep representations based on  visual and textual clinical data.  
 
 **Latest News and Hot Topics:**
+[[Slides](<./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
 
- As usual we will feature latest news and hot topics about Deep Learning.  Moreover, Elisabeth Fink will present the best talks from the O'Reilly  AI conference in San Jose, CA in September.
+As usual we will feature latest news and hot topics about Deep Learning.  Moreover, Elisabeth Fink will present the best talks from the O'Reilly  AI conference in San Jose, CA in September.
 
 This meetup is kindly hosted by A1 Telekom.
