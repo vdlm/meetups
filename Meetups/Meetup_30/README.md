@@ -4,7 +4,7 @@
 * Venue: A1 Telekom Group Austria
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/265369388/
 
-* Agenda and Announcements: [[Slides](./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf)]
+* Agenda and Announcements: [[Slides](<./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
 
 ## Details
 
