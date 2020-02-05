@@ -5,7 +5,7 @@
 * Meetup Page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/267684493/
 
 * Agenda, Announcements and Hot Topics:
-[[Slides](<./slides/32nd Deep Learning Meetup Intro - Announcements - Hot Topics>)]
+[[Slides](<./slides/32nd Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
 
 ## Details
 
@@ -30,6 +30,6 @@ by René Donner, contextflow GmbH
 The yearly "Neural Information Processing Systems" conference is one of the largest machine learning conferences. In 2019, it took place in Vancouver, from December 8 to 14, with around 13,000 attendees. René will discuss a small selection of the 1,428 papers presented at the conference.
 
 **Latest News and Hot Topics:**
-[[Slides](<./slides/32nd Deep Learning Meetup Intro - Announcements - Hot Topics>)]
+[[Slides](<./slides/32nd Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
 
 As usual, the meetup will be complemented by hot topics & latest news about Deep Learning, as well as networking.
