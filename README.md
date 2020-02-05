@@ -69,8 +69,9 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 27 | 2019-05-22 | Bosch Wien                         | DL in Industry | [more](./Meetups/Meetup_27/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261011682/) |
 | 28 | 2019-06-24 | Talent Garden Austria              | Adverserial ML / Biosignals | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/) |
 | 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |  [Youtube]( (https://www.youtube.com/watch?v=mTG-AZnhV10)   |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/) |
-| 30| 2019-10-29 | A1 Telekom Austria                | Fake News | [more](./Meetups/Meetup_30/) |    |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/265369388/) |
-
+| 30 | 2019-10-29 | A1 Telekom Austria                 | Fake News | [more](./Meetups/Meetup_30/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/265369388/) |
+| 31 |  |                 |     | [more](./Meetups/Meetup_31/) |    |        | [link]() |
+| 32 | 2020-01-30 | Takeda                             | Self-Supervised Deep Learning / NeurIPS | [more](./Meetups/Meetup_32/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/267684493/) |
 
 # Talks & Presentations
 
@@ -134,3 +135,6 @@ Note that this meetup has an intermediate to advanced level (we have done introd
 | 2019-09-24 |  29 | Jakub Mačina  | Deep Learning for Recommender Systems | [pdf](Meetups/Meetup_29/slides/DL_for_Recommender_Systems-Jakub_Macina.pdf) |
 | 2019-09-24 |  29 | Michael Pieler  | The Fastai Deep Learning Library | [pdf](Meetups/Meetup_29/slides/fastai_introduction_29th-VDLM_20190924.pdf) |
 | 2019-09-24 |  29 | Jakub Mačina  | RecSys2019 Review | [pdf](Meetups/Meetup_29/slides/RecSys2019_Review_Jakub_Macina.pdf) |
+| ... | 
+| 2020-01-30 |  32 | Christoph Bonitz          | Self-Supervised Deep Learning | [pdf](<Meetups/Meetup_32/slides/Self-Supervised Learning - Bonitz.pdf>) |
+| 2020-01-30 |  32 | René Donner               | Report from NeurIPS 2019      | [pdf](<Meetups/Meetup_32/slides/VDLM Neurips 2019 recap.pdf>) |

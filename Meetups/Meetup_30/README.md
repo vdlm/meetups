@@ -2,7 +2,7 @@
 
 * Date: 2019-10-29
 * Venue: A1 Telekom Group Austria
-* Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/265369388/
+* Meetup Page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/265369388/
 
 * Agenda, Announcements and Hot Topics: [[Slides](<./slides/30th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>)]
 
