@@ -32,7 +32,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 |:-:|:-:|
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. He is now the Head of Machine Learning at [Musimap](http://www.musimap.net), a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a postdoctoral researcher at the Austrian Research Institute for Artificial Intelligence (OFAI). |
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. |
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[Research Profile](http://www.ifs.tuwien.ac.at/%7Eschindler/) / [LinkedIn](https://www.linkedin.com/in/schindleralexander)]
 |![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **Rene Donner** is the Head of Machine Learning & Engineering at medical image analysis startup Contextflow. |
 
 
@@ -73,7 +73,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 28 | 2019-06-24 | Talent Garden Austria              | Adverserial ML / Biosignals | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/) |
 | 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |  [Youtube](https://www.youtube.com/watch?v=mTG-AZnhV10)   |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/) |
 | 30 | 2019-10-29 | A1 Telekom Austria                 | Fake News | [more](./Meetups/Meetup_30/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/265369388/) |
-| 31 |  |                 |     | [more](./Meetups/Meetup_31/) |    |        | [link]() |
+| 31 | 2019-12-02 | UniCredit  | Singing Voice Detection; Large-scale ML at Google  | [more](./Meetups/Meetup_31/) |    |        | [link]() |
 | 32 | 2020-01-30 | Takeda                             | Self-Supervised Deep Learning / NeurIPS | [more](./Meetups/Meetup_32/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/267684493/) |
 
 # Talks & Presentations
@@ -138,7 +138,10 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2019-09-24 |  29 | Jakub Mačina  | Deep Learning for Recommender Systems | [pdf](Meetups/Meetup_29/slides/DL_for_Recommender_Systems-Jakub_Macina.pdf) |
 | 2019-09-24 |  29 | Michael Pieler  | The Fastai Deep Learning Library | [pdf](Meetups/Meetup_29/slides/fastai_introduction_29th-VDLM_20190924.pdf) |
 | 2019-09-24 |  29 | Jakub Mačina  | RecSys2019 Review | [pdf](Meetups/Meetup_29/slides/RecSys2019_Review_Jakub_Macina.pdf) |
-| ... | 
+| 2019-10-29 |  30 | Alexander Schindler  | Fake News. From Shallow to Deep. How to create, detect and fight it. | |
+| 2019-10-29 |  30 | Thomas Schlegl  | Anomaly Detection with GANs | |
+| 2019-12-02 |  31 | Jan Schlüter  | Taming Horses in Singing Voice Detection | |
+| 2019-12-02 |  31 | Vladimir Macko  | How to do ML if you have lots of Google’s GPUs | |
 | 2020-01-30 |  32 | Christoph Bonitz          | Self-Supervised Deep Learning | [pdf](<Meetups/Meetup_32/slides/Self-Supervised Learning - Bonitz.pdf>) |
 | 2020-01-30 |  32 | René Donner               | Report from NeurIPS 2019      | [pdf](<Meetups/Meetup_32/slides/VDLM Neurips 2019 recap.pdf>) |
 
