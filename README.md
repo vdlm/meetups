@@ -140,8 +140,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2019-09-24 |  29 | Jakub Mačina  | RecSys2019 Review | [pdf](Meetups/Meetup_29/slides/RecSys2019_Review_Jakub_Macina.pdf) |
 | 2019-10-29 |  30 | Alexander Schindler  | Fake News. From Shallow to Deep. How to create, detect and fight it. | [pdf](./Meetups/Meetup_30/slides/Fake_news_VDLM_2019_10_29.pdf) |
 | 2019-10-29 |  30 | Thomas Schlegl  | Anomaly Detection with GANs | [pdf](./Meetups/Meetup_30/slides/VDLM_ThomasSchlegl_20191029.pdf) |
-| 2019-12-02 |  31 | Jan Schlüter  | Taming Horses in Singing Voice Detection | |
-| 2019-12-02 |  31 | Vladimir Macko  | How to do ML if you have lots of Google’s GPUs | |
+| 2019-12-02 |  31 | Jan Schlüter  | Taming Horses in Singing Voice Detection | [pdf](<Meetups/Meetup_31/slides/Taming Horses - Jan Schlueter.pdf>) |
+| 2019-12-02 |  31 | Vladimir Macko  | How to do ML if you have lots of Google’s GPUs | [pdf](<Meetups/Meetup_31/slides/How to do ML - Vladimir Macko.pdf>) |
+| 2019-12-02 |  31 | Sebastian Böck, Katharina Prinz  | ISMIR 2019 Review | [pdf](<Meetups/Meetup_31/slides/ISMIR 2019 review.pdf>) |
 | 2020-01-30 |  32 | Christoph Bonitz          | Self-Supervised Deep Learning | [pdf](<Meetups/Meetup_32/slides/Self-Supervised Learning - Bonitz.pdf>) |
 | 2020-01-30 |  32 | René Donner               | Report from NeurIPS 2019      | [pdf](<Meetups/Meetup_32/slides/VDLM Neurips 2019 recap.pdf>) |
 
