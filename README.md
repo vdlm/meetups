@@ -138,8 +138,8 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2019-09-24 |  29 | Jakub Mačina  | Deep Learning for Recommender Systems | [pdf](Meetups/Meetup_29/slides/DL_for_Recommender_Systems-Jakub_Macina.pdf) |
 | 2019-09-24 |  29 | Michael Pieler  | The Fastai Deep Learning Library | [pdf](Meetups/Meetup_29/slides/fastai_introduction_29th-VDLM_20190924.pdf) |
 | 2019-09-24 |  29 | Jakub Mačina  | RecSys2019 Review | [pdf](Meetups/Meetup_29/slides/RecSys2019_Review_Jakub_Macina.pdf) |
-| 2019-10-29 |  30 | Alexander Schindler  | Fake News. From Shallow to Deep. How to create, detect and fight it. | |
-| 2019-10-29 |  30 | Thomas Schlegl  | Anomaly Detection with GANs | |
+| 2019-10-29 |  30 | Alexander Schindler  | Fake News. From Shallow to Deep. How to create, detect and fight it. | [pdf](./Meetups/Meetup_30/slides/Fake_news_VDLM_2019_10_29.pdf) |
+| 2019-10-29 |  30 | Thomas Schlegl  | Anomaly Detection with GANs | [pdf](./Meetups/Meetup_30/slides/VDLM_ThomasSchlegl_20191029.pdf) |
 | 2019-12-02 |  31 | Jan Schlüter  | Taming Horses in Singing Voice Detection | |
 | 2019-12-02 |  31 | Vladimir Macko  | How to do ML if you have lots of Google’s GPUs | |
 | 2020-01-30 |  32 | Christoph Bonitz          | Self-Supervised Deep Learning | [pdf](<Meetups/Meetup_32/slides/Self-Supervised Learning - Bonitz.pdf>) |
