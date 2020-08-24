@@ -148,5 +148,6 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2020-01-30 |  32 | René Donner               | Report from NeurIPS 2019      | [pdf](<Meetups/Meetup_32/slides/VDLM Neurips 2019 recap.pdf>) |
 | 2020-02-26 |  33 | Markus Toman              | And then they began to speak! Towards end-to-end speech synthesis, and back again?     | [pdf](<Meetups/Meetup_33/slides/speech_synthesis_mtoman_talk.pdf>) |
 | 2020-02-26 |  33 | Jan Schlüter, René Donner and Thomas Lidy              | Deep Learning Hardware Overview: What and where to buy or rent  | [pdf](<Meetups/Meetup_33/slides/DL_Hardware_Overview.pdf>) |
+| 2020-08-20 |  34 | Sander Dieleman  | Generating music in the waveform domain  | [pdf](<Meetups/Meetup_34/slides/Sander Dieleman - Generating music in the waveform domain.pdf>) |
 
 <a name="latest_slides"/>
