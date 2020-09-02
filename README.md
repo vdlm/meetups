@@ -76,6 +76,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 31 | 2019-12-02 | UniCredit  | Singing Voice Detection; Large-scale ML at Google  | [more](./Meetups/Meetup_31/) |    |        | [link]() |
 | 32 | 2020-01-30 | Takeda                             | Self-Supervised Deep Learning / NeurIPS | [more](./Meetups/Meetup_32/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/267684493/) |
 | 33 | 2020-02-26 | Magenta                            | End-to-end speech synthesis / DL Hardware | [more](./Meetups/Meetup_33/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/268292554/) |
+| 34 | 2020-08-20 | online                             | Generating music in the waveform domain | [more](./Meetups/Meetup_34/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/272336873/) |
 
 # Talks & Presentations
 

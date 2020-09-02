@@ -1,7 +1,7 @@
 # 34th Deep Learning Meetup in Vienna
 
 * Date: 2020-08-20
-* Venue: virtual (on Zoom)
+* Venue: online (on Zoom)
 * Meetup Page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/272336873/
 
 * Agenda, Announcements and Hot Topics:
