@@ -77,6 +77,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 32 | 2020-01-30 | Takeda                             | Self-Supervised Deep Learning / NeurIPS | [more](./Meetups/Meetup_32/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/267684493/) |
 | 33 | 2020-02-26 | Magenta                            | End-to-end speech synthesis / DL Hardware | [more](./Meetups/Meetup_33/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/268292554/) |
 | 34 | 2020-08-20 | online                             | Generating music in the waveform domain | [more](./Meetups/Meetup_34/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/272336873/) |
+| 35 | 2020-10-13 | online                             | Graph Neural Networks | [more](./Meetups/Meetup_35/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/273457215/) |
+| 36 | 2020-12-09 | online                             | Video segmentation | [more](./Meetups/Meetup_36/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/274784282/) |
+| 37 | 2021-01-13 | online                             | NeurIPS 2020 Review | [more](./Meetups/Meetup_37/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/275536057/) |
 
 # Talks & Presentations
 
@@ -149,6 +152,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2020-01-30 |  32 | René Donner               | Report from NeurIPS 2019      | [pdf](<Meetups/Meetup_32/slides/VDLM Neurips 2019 recap.pdf>) |
 | 2020-02-26 |  33 | Markus Toman              | And then they began to speak! Towards end-to-end speech synthesis, and back again?     | [pdf](<Meetups/Meetup_33/slides/speech_synthesis_mtoman_talk.pdf>) |
 | 2020-02-26 |  33 | Jan Schlüter, René Donner and Thomas Lidy              | Deep Learning Hardware Overview: What and where to buy or rent  | [pdf](<Meetups/Meetup_33/slides/DL_Hardware_Overview.pdf>) |
-| 2020-08-20 |  34 | Sander Dieleman  | Generating music in the waveform domain  | [pdf](<Meetups/Meetup_34/slides/Sander Dieleman - Generating music in the waveform domain.pdf>) |
+| 2020-08-20 |  34 | Sander Dieleman     | Generating music in the waveform domain  | [pdf](<Meetups/Meetup_34/slides/Sander Dieleman - Generating music in the waveform domain.pdf>) |
+| 2020-10-13 |  35 | Liad Magen          | Introduction to Graph Neural Networks | [pdf](<Meetups/Meetup_35/slides/Graph Neural Networks - Deep Learning Meetup.pdf>) |
+| 2020-12-09 |  36 | Antonis Makropoulos | Practical experiences in accurate video segmentation | n/a |
+| 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](./Meetups/Meetup_37/slides/TODO) | 
 
 <a name="latest_slides"/>
