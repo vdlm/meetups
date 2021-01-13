@@ -1,7 +1,7 @@
-# First Deep Learning Meetup in Vienna
+# 4th Deep Learning Meetup in Vienna
 
 * Date: 2016-07-07
-* Venue: TU Wien
+* Venue: TU Wien & Wieden Bräu
 * Meetup Page: https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/
 
 ## Details
