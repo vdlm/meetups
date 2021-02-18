@@ -80,6 +80,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 35 | 2020-10-13 | online                             | Graph Neural Networks | [more](./Meetups/Meetup_35/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/273457215/) |
 | 36 | 2020-12-09 | online                             | Video segmentation | [more](./Meetups/Meetup_36/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/274784282/) |
 | 37 | 2021-01-13 | online                             | NeurIPS 2020 Review | [more](./Meetups/Meetup_37/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/275536057/) |
+| 38 | 2021-02-17 | online                             | CLIP & DALL·E / Coordinate-based Neural Representations | [more](./Meetups/Meetup_38/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/276105847/) |
 
 # Talks & Presentations
 
@@ -156,5 +157,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2020-10-13 |  35 | Liad Magen          | Introduction to Graph Neural Networks | [pdf](<Meetups/Meetup_35/slides/Graph Neural Networks - Deep Learning Meetup.pdf>) |
 | 2020-12-09 |  36 | Antonis Makropoulos | Practical experiences in accurate video segmentation | n/a |
 | 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](./Meetups/Meetup_37/slides/TODO) | 
+| 2021-02-17 |  38 | Michael Pieler      | OpenAI: CLIP & DALL·E | [pdf](./Meetups/Meetup_38/slides/38th Deep Learning Meetup Intro - Announcements.pdf) | 
+| 2021-02-17 |  38 | Jan Schlüter        | Coordinate-based Neural Representations | [pdf](./Meetups/Meetup_38/slides/Jan Schlüter - Coordinate-based Neural Representations.pdf.pdf) | 
 
 <a name="latest_slides"/>
