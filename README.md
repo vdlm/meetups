@@ -156,8 +156,8 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2020-08-20 |  34 | Sander Dieleman     | Generating music in the waveform domain  | [pdf](<Meetups/Meetup_34/slides/Sander Dieleman - Generating music in the waveform domain.pdf>) |
 | 2020-10-13 |  35 | Liad Magen          | Introduction to Graph Neural Networks | [pdf](<Meetups/Meetup_35/slides/Graph Neural Networks - Deep Learning Meetup.pdf>) |
 | 2020-12-09 |  36 | Antonis Makropoulos | Practical experiences in accurate video segmentation | n/a |
-| 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](./Meetups/Meetup_37/slides/TODO) | 
-| 2021-02-17 |  38 | Michael Pieler      | OpenAI: CLIP & DALL·E | [pdf](./Meetups/Meetup_38/slides/38th Deep Learning Meetup Intro - Announcements.pdf) | 
-| 2021-02-17 |  38 | Jan Schlüter        | Coordinate-based Neural Representations | [pdf](./Meetups/Meetup_38/slides/Jan Schlüter - Coordinate-based Neural Representations.pdf.pdf) | 
+| 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](<./Meetups/Meetup_37/slides/TODO>) | 
+| 2021-02-17 |  38 | Michael Pieler      | OpenAI: CLIP & DALL·E | [pdf](<./Meetups/Meetup_38/slides/38th Deep Learning Meetup Intro - Announcements.pdf>) | 
+| 2021-02-17 |  38 | Jan Schlüter        | Coordinate-based Neural Representations | [pdf](<./Meetups/Meetup_38/slides/Jan Schlüter - Coordinate-based Neural Representations.pdf>) | 
 
 <a name="latest_slides"/>
