@@ -28,7 +28,7 @@ Details:
 
 **Talk 1: Deep Learning in Medical Imaging Applications** 
 Isabel Dregely
-[[Slides](<./slides/TODO>)]
+[[Slides](<./slides/Deep Learning in Medical Imaging Applications.pdf>)]
 
 Machine learning and in particular Deep Learning is a key driver in enabling a transition from qualitative to quantitative imaging biomarkers and towards personalized medicine. Using the example of Magnetic Resonance Imaging, this talk will show how deep learning has been applied to the entire image processing chain, from acquisition, image reconstruction to image analysis and disease prediction to enable faster image exams and more reproducible results.
 
@@ -45,7 +45,7 @@ Dr. Georg Fuerlinger received his doctorate from the Technical University of Vie
 
 **Talk 3: Hot Topics and Latest News in Deep Learning**
 Michael Pieler
-[[Slides](<./slides/TODO>)]
+[[Slides](<./slides/Hot-Topics_Intro-to-scaling-laws-for-NN_CLIP-applications_42th-VDLM_20211109.pdf>)]
 
 Our regular section to present you the latest & hottest research output in Deep Learning in a quick way.
 
