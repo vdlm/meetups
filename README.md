@@ -81,6 +81,11 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 36 | 2020-12-09 | online                             | Video segmentation | [more](./Meetups/Meetup_36/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/274784282/) |
 | 37 | 2021-01-13 | online                             | NeurIPS 2020 Review | [more](./Meetups/Meetup_37/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/275536057/) |
 | 38 | 2021-02-17 | online                             | CLIP & DALL·E / Coordinate-based Neural Representations | [more](./Meetups/Meetup_38/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/276105847/) |
+| 39 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
+| 40 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
+| 41 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
+| 42 | 2021-11-09 | FH Technikum Wien + online         |    | [more](./Meetups/Meetup_42/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/281088164/) |
+
 
 # Talks & Presentations
 
@@ -159,5 +164,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](<./Meetups/Meetup_37/slides/TODO>) | 
 | 2021-02-17 |  38 | Michael Pieler      | OpenAI: CLIP & DALL·E | [pdf](<./Meetups/Meetup_38/slides/38th Deep Learning Meetup Intro - Announcements.pdf>) | 
 | 2021-02-17 |  38 | Jan Schlüter        | Coordinate-based Neural Representations | [pdf](<./Meetups/Meetup_38/slides/Jan Schlüter - Coordinate-based Neural Representations.pdf>) | 
+| ... |  39 |       |  | | 
+| ... |  40 |       |  | | 
+| ... |  41 |       |  | | 
+| ... |  42 |       |  | | 
 
 <a name="latest_slides"/>
