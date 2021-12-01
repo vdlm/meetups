@@ -85,6 +85,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 40 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
 | 41 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
 | 42 | 2021-11-09 | FH Technikum Wien + online         |    | [more](./Meetups/Meetup_42/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/281088164/) |
+| 43 | 2021-12-01 | online                  |    | [more](./Meetups/Meetup_43/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/282097000/) |
 
 
 # Talks & Presentations
@@ -168,5 +169,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | ... |  40 |       |  | | 
 | ... |  41 |       |  | | 
 | ... |  42 |       |  | | 
+| 2021-12-01 |  43 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_43/slides/VDLM_Transformers_with_a_focus_on_CV_20211201.pdf>) | 
+| 2021-12-01 |  43 |  Jan Schlüter       | Transformers follow-up: What about audio? | [pdf](<./Meetups/Meetup_43/slides/TODO.pdf>) | 
 
 <a name="latest_slides"/>
