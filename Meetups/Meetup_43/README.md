@@ -30,7 +30,7 @@ Transformers are a very interesting model architecture for deep learning that re
 Participants are encouraged to ask questions during the talk.
 
 Short talk: Transformers follow-up: What about audio? - Jan Schlüter, JKU
-[[Slides](<./slides/TODO.pdf>)]
+[[Slides](<./slides/Audio Transformers.pdf>)]
 
 Complementing the main talk, we will briefly look at selected works applying the Transformer architecture in the audio domain.
 
