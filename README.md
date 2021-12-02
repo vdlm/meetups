@@ -170,6 +170,6 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | ... |  41 |       |  | | 
 | ... |  42 |       |  | | 
 | 2021-12-01 |  43 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_43/slides/VDLM_Transformers_with_a_focus_on_CV_20211201.pdf>) | 
-| 2021-12-01 |  43 |  Jan Schlüter       | Transformers follow-up: What about audio? | [pdf](<./Meetups/Meetup_43/slides/TODO.pdf>) | 
+| 2021-12-01 |  43 |  Jan Schlüter       | Transformers follow-up: What about audio? | [pdf](<./Meetups/Meetup_43/slides/Audio Transformers.pdf>) | 
 
 <a name="latest_slides"/>
