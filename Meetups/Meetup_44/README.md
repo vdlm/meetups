@@ -18,23 +18,23 @@ This event is graciously hosted by A1 at Lassallestraße 9, 1020 Wien.
 
 Our agenda is as follows:
 
-18:30 - 18:40 Welcome & Introduction
-18:40 - 19:45 ICLR 2022 - Trends & interesting highlights
-19:45 - 20:15 Break
-20:15 - 20:25 Announcements
-20:25 - 21:00 GPT-NeoX-20B - An Open-Source Autoregressive Language Model
-21:00: Networking
+18:30 - 18:40 Welcome & Introduction<br>
+18:40 - 19:45 ICLR 2022 - Trends & interesting highlights<br>
+19:45 - 20:15 Break<br>
+20:15 - 20:25 Announcements<br>
+20:25 - 21:00 GPT-NeoX-20B - An Open-Source Autoregressive Language Model<br>
+21:00: Networking<br>
 
 The talks:
 
-ICLR 2022 - Trends & interesting highlights
-Rene Donner, Medical Volume Annotator mva.ai & contextflow
+*ICLR 2022 - Trends & interesting highlights*<br>
+Rene Donner, Medical Volume Annotator mva.ai & contextflow<br>
 [[Slides](<./slides/Donner_ICLR_Review.pdf>)]
 
 We will present a distilled overview of this year's International Conference on Learning Representations – one of the largest academic conferences on deep learning. We will look at the most active areas of research, point to the most interesting and approachable tutorials and highlight specific papers and demos!
 
-GPT-NeoX-20B - An Open-Source Autoregressive Language Model
-Michael Pieler, EleutherAI
+*GPT-NeoX-20B - An Open-Source Autoregressive Language Model*<br>
+Michael Pieler, EleutherAI<br>
 [[Slides](<./slides/Pieler_GPT-NeoX.pdf>)]
 
 A high-level overview of the GPT-NeoX-20B setup which is the largest dense autoregressive language model that has publicly available code and weights. We will discuss the distributed training setup, some practical aspects, and the implications and future trends.
