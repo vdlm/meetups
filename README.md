@@ -33,7 +33,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. He is now the Head of Machine Learning at [Musimap](http://www.musimap.net), a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[Research Profile](http://www.ifs.tuwien.ac.at/%7Eschindler/) / [LinkedIn](https://www.linkedin.com/in/schindleralexander)]
-|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **Rene Donner** is the Head of Machine Learning & Engineering at medical image analysis startup Contextflow. |
+|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **René Donner** is Co-Founder and former CTO at contextflow <br> and currently building the medical image annotation platform [mva.ai](https://mva.ai) |
 
 
 ## Meetups
@@ -171,5 +171,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | ... |  42 |       |  | | 
 | 2021-12-01 |  43 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_43/slides/VDLM_Transformers_with_a_focus_on_CV_20211201.pdf>) | 
 | 2021-12-01 |  43 |  Jan Schlüter       | Transformers follow-up: What about audio? | [pdf](<./Meetups/Meetup_43/slides/Audio Transformers.pdf>) | 
+| 2022-05-18 |  44 |       | Intro slides | [pdf](<./Meetups/Meetup_44/slides/Intro.pdf>) | 
+| 2022-05-18 |  44 |  René Donner     | ICLR 2022 - Trends & interesting highlights | [pdf](<./Meetups/Meetup_44/slides/Donner_ICLR_Review.pdf>) | 
+| 2022-05-18 |  44 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_44/slides/Pieler_GPT-NeoX.pdf>) | 
+
 
 <a name="latest_slides"/>
