@@ -2,7 +2,7 @@
 
 * Date: 2022-10-18
 * Venue: A1
-* Meetup Page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/285166083/
+* Meetup Page: https://www.meetup.com/vienna-deep-learning-meetup/events/289042609/
 
 [[Slides](<./slides/20221018 45th VDLM.pdf>)]
 
