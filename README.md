@@ -174,6 +174,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2022-05-18 |  44 |       | Intro slides | [pdf](<./Meetups/Meetup_44/slides/Intro.pdf>) | 
 | 2022-05-18 |  44 |  René Donner     | ICLR 2022 - Trends & interesting highlights | [pdf](<./Meetups/Meetup_44/slides/Donner_ICLR_Review.pdf>) | 
 | 2022-05-18 |  44 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_44/slides/Pieler_GPT-NeoX.pdf>) | 
+| 2022-10-18 |  44 |  Lukas Zimmermann / Michael Pieler     | Neural Radiance Fields / Stable Diffusion | [pdf](<./Meetups/Meetup_45/slides/20221018 45th VDLM.pdf>) | 
 
 
 <a name="latest_slides"/>
