@@ -175,7 +175,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2022-05-18 |  44 |  René Donner     | ICLR 2022 - Trends & interesting highlights | [pdf](<./Meetups/Meetup_44/slides/Donner_ICLR_Review.pdf>) | 
 | 2022-05-18 |  44 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_44/slides/Pieler_GPT-NeoX.pdf>) | 
 | 2022-10-18 |  45 |  Lukas Zimmermann / Michael Pieler     | Neural Radiance Fields / Stable Diffusion | [pdf](<./Meetups/Meetup_45/slides/20221018 45th VDLM.pdf>) | 
-| 2022-11-17 |  46 |  VDLM | Intro & Job Openings | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
+| 2022-11-17 |  46 |  VDLM | Job Openings | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM Job Openings.pdf>) | 
 | 2022-11-17 |  46 |  Marc Javin, emotion3d.ai | Eye Analysis: Designing Neural Network for the Automotive Industry | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
 | 2022-11-17 |  46 |  Georg Braun, emotion3d.ai | Going Embedded: Real-time Deep Learning for automotive applications | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
 | 2022-11-17 |  46 |  Liad Magen, TU-INSO | Hot Papers – What's new in NLP? | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
