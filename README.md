@@ -180,6 +180,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2022-11-17 |  46 |  Georg Braun, emotion3d.ai | Going Embedded: Real-time Deep Learning for automotive applications | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
 | 2022-11-17 |  46 |  Liad Magen, TU-INSO | Hot Papers – What's new in NLP? | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
 | 2022-11-17 |  46 |  Rene Donner, mva.ai | Stealing Models from Compiled DNNs | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
+| 2023-01-26 |  47 |  Paul Tiwald, mostly.ai // MUW AI Institute | Synthetic Data // AI in BioMedicine | [pdf](<./Meetups/Meetup_47/slides/20230126 47th VDLM Slides All.pdf>) | 
 
 
 <a name="latest_slides"/>
