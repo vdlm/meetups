@@ -1,5 +1,46 @@
 # Vienna Deep Learning Meetup
 ## Slides & Resources
+
+![Logo](./Logo/dlmeetup_logo_150dpi.png "logo")
+
+## Overview
+
+Deep Learning is currently a big & growing trend in data analysis and prediction - and the main fuel of a new era of AI. Google, Facebook and others have shown tremendous success in pushing image, object & speech recognition to the next level.
+
+But Deep Learning can also be used for so many other things! The list of application domains is literally endless.
+
+Although rooted in Neural Network research already in the 1950's, the current trend in Deep Learning is unstoppable, and new approaches and improvements are presented almost every month.
+
+We would like to meet and discuss the latest trends in Deep Learning, Neural Networks and Machine Learning, and reflect the latest developments, both in industry and in research.
+
+The **Vienna Deep Learning Meetup** is positioned at the cross-over of research to industry - having both a focus on novel methods that are published in such a fast pace, and interesting new applications in the startup and industry world. We usually have 2 speakers from either academia, startups or industry, complemented by a "latest news and hot topics" section. Occasionally we do tutorials about software frameworks and how to use Deep Learning in practice. Each evening ends with networking & discussions over drinks and snacks.
+
+Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
+
+If you want to attend this meetup, sign up at our [Meetup page](https://www.meetup.com/Vienna-Deep-Learning-Meetup/). 
+
+## Resources
+
+* [jump to latest slides](#latest_slides)
+* Meetup page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/
+* Wiki: https://github.com/vdlm/meetups/wiki
+* Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
+
+## Your Hosts
+
+|   |   |
+|:-:|:-:|
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. He is now the Head of Machine Learning at [Musimap](http://www.musimap.net), a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[Research Profile](http://www.ifs.tuwien.ac.at/%7Eschindler/) / [LinkedIn](https://www.linkedin.com/in/schindleralexander)]
+|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **René Donner** is Co-Founder and former CTO at contextflow <br> and currently building the medical image annotation platform [mva.ai](https://mva.ai) |
+
+
+## Meetups
+
+| #    | Date | Venue | Topic | Content | Video | Photos | Meetup.com |
+| ---- | ---- | ----- | ----- | ------- | ----- | ------ | ---------- |
+|      |      |       |       |         |       |        |            |
 | 2023-03-29 |  49 |  Rene Donner / Aaron Kaplan | VDLM, Survey, Jobs, Events, Hot Papers | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>) | 
 | 2023-03-29 |  49 |  Jason Hoelscher-Obermaier | Truth or Dare - How LLMs disregard truth | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>) | 
 | 2023-03-29 |  49 |  Sebastian Schaffer / Lukas Exl | Physics Inspired Neural Networks | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>) | 
@@ -95,96 +136,5 @@
 | 2016-05-09 |  2  | Gregor Mitscha-Baude      | Recurrent Neural Networks                                                      | [pdf](./Meetups/Meetup_2/slides/2nd_meetup_RNN_presentation.pdf)  |
 | 2016-05-09 |  2  | Alex Champandard          | Neural Networks for Image Synthesis                                            |                              |
 | 2016-04-07 |  1  | Thomas Lidy & Jan Schlüter     | Deep Learning: History, Approaches, Applications                          | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
-|:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
-| Date       | MU# | Speaker                   | Topic                                                                          | Slides                       |
 
-# Talks & Presentations
-
-
-| 43 | 2021-12-01 | online                  |    | [more](./Meetups/Meetup_43/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/282097000/) |
-| 42 | 2021-11-09 | FH Technikum Wien + online         |    | [more](./Meetups/Meetup_42/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/281088164/) |
-| 41 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
-| 40 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
-| 39 | | online                             |    | [more](./Meetups/Meetup_39/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/) |
-| 38 | 2021-02-17 | online                             | CLIP & DALL·E / Coordinate-based Neural Representations | [more](./Meetups/Meetup_38/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/276105847/) |
-| 37 | 2021-01-13 | online                             | NeurIPS 2020 Review | [more](./Meetups/Meetup_37/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/275536057/) |
-| 36 | 2020-12-09 | online                             | Video segmentation | [more](./Meetups/Meetup_36/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/274784282/) |
-| 35 | 2020-10-13 | online                             | Graph Neural Networks | [more](./Meetups/Meetup_35/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/273457215/) |
-| 34 | 2020-08-20 | online                             | Generating music in the waveform domain | [more](./Meetups/Meetup_34/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/272336873/) |
-| 33 | 2020-02-26 | Magenta                            | End-to-end speech synthesis / DL Hardware | [more](./Meetups/Meetup_33/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/268292554/) |
-| 32 | 2020-01-30 | Takeda                             | Self-Supervised Deep Learning / NeurIPS | [more](./Meetups/Meetup_32/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/267684493/) |
-| 31 | 2019-12-02 | UniCredit  | Singing Voice Detection; Large-scale ML at Google  | [more](./Meetups/Meetup_31/) |    |        | [link]() |
-| 30 | 2019-10-29 | A1 Telekom Austria                 | Fake News | [more](./Meetups/Meetup_30/) |    |        | [link](https://www.meetup.com/Vienna-Deep-Learning-Meetup/events/265369388/) |
-| 29 | 2019-09-25 | Raiffeisen Software                | Recommender Systems | [more](./Meetups/Meetup_29/) |  [Youtube](https://www.youtube.com/watch?v=mTG-AZnhV10)   |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/264243783/) |
-| 28 | 2019-06-24 | Talent Garden Austria              | Adverserial ML / Biosignals | [more](./Meetups/Meetup_28/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261640984/) |
-| 27 | 2019-05-22 | Bosch Wien                         | DL in Industry | [more](./Meetups/Meetup_27/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/261011682/) |
-| 26 | 2019-04-29 | WKO Aussenwirtschaft Austria       | Putting DL in Production | [more](./Meetups/Meetup_26/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/260078175/) |
-| 25 | 2019-03-27 | A1 Telekom Austria                 | NLP | [more](./Meetups/Meetup_25/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/259357623/) |
-| 24 | 2019-02-28 | T-Center Vienna                    | Ophthalmology / Computer Vision | [more](./Meetups/Meetup_24/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258957382/) |
-| 23 | 2019-01-31 | FH Technikum Wien                  | Explainable Deep Learning / NeurIPS Report | [more](./Meetups/Meetup_23/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/258037672/) |
-| WA | 2018-12-04/05 | Hofburg Wien                    | WeAreDevelopers AI Congress | [more](https://www.wearedevelopers.com/ai-congress/) |       |        | [link](https://www.wearedevelopers.com/ai-congress/) |
-| 22 | 2018-11-12 | FH Technikum Wien                  | Video Surveillance / AI strategies in the government | [more](./Meetups/Meetup_22/) |       |  [photos](https://photos.app.goo.gl/XaPB8wzpB5VUFUJj6)      | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255602334/) |
-| 21 | 2018-10-15 | Marx Palast                        | Music & Audio          | [more](./Meetups/Meetup_21/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/255361581/) |
-| 20 | 2018-09-18 | WKO Aussenwirtschaft Austria       | Reinforcement Learning | [more](./Meetups/Meetup_20/) |  (tbd)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/253876561/) |
-| 19 | 2018-06-07 | A1 Telekom Austria                 | Visual Computing       | [more](./Meetups/Meetup_19/) |       | [photos](https://photos.app.goo.gl/hjgCkFfbeHkTyN1X6)  | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/250912676/) |
-| 18 | 2018-05-07 | TU Wien                            | Ethics & Bias in AI    | [more](./Meetups/Meetup_18/) | [Youtube](https://www.youtube.com/watch?v=_zwBCDmlvv8) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249733624/) |
-| 17 | 2018-04-23 | Wien Energie Kundendienstzentrum   | Visual Computing       | [more](./Meetups/Meetup_17/) | Youtube: [part1](https://www.youtube.com/watch?v=8mCO9w9Cgqs) [part2](https://www.youtube.com/watch?v=zPna-ip_WC8&t=106s) |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/249221763/) |
-| 16 | 2018-02-27 | A1 Telekom Austria                 | Word Embedding / NLP   | [more](./Meetups/Meetup_16/) | [Youtube](https://youtu.be/tr1gs5CW4Rw)      |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/247341250/)|
-| 15 | 2018-01-09 | weXelerate                         | Transfer Learning / Visual Computing  | [more](./Meetups/Meetup_15/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/245937916/)|
-| 14 | 2017-11-20 | A1 Telekom Austria                 | Image Search           | [more](./Meetups/Meetup_14/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/244077146/)|
-| 13 | 2017-10-24 | Marx Palast                        | Google Tensorflow      | [more](./Meetups/Meetup_13/) |  [Youtube](https://youtu.be/GSMh5fw2Mjo)     |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/242388134/)|
-| AI | 2017-09-04 | WU Wien                            | AI Summit Vienna 2017  | [more](./Meetups/AI_Summit/) |  [videos](https://mostly.ai/summit/)    |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240387359/)|
-| 12 | 2017-06-20 | FH Technikum Wien                  | Microsoft CNTK & Image Object Recognition / GANs | [more](./Meetups/Meetup_12/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/240006829/) |
-| 11 | 2017-05-17 | Casinos Austria Innovation Hub     | Distributed Deep Learning / Sound Event Detection | [more](./Meetups/Meetup_11/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/239296005/)|
-| 10 | 2017-03-23 | Automic Software GmbH              | Self-Driving Cars      | [more](./Meetups/Meetup_10/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/238204828/)|
-| 9  | 2017-02-21 | bwin.party services (Austria) GmbH | Face Recognition / Keras Tutorial (pt. 2)   | [more](./Meetups/Meetup_9/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/237040996/) |
-| 8  | 2017-01-17 | TU Wien                            | NIPS 2016 report / Keras Tutorial (pt. 1)   | [more](./Meetups/Meetup_8/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/236612043/)|
-| 7  | 2016-12-01 | Agentur Virtual Identity           | Neuroscience                | [more](./Meetups/Meetup_7/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/235236383/)|
-| 6  | 2016-10-12 | Sektor 5                           | Intro NNs / Text-to-Speech  | [more](./Meetups/Meetup_6/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/234619135/)|
-| 5  | 2016-09-22 | Automic Software GmbH              | Automation / GoogLeNet and CaffeJS  | [more](./Meetups/Meetup_5/) |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/233441928/) |
-| 4  | 2016-07-07 | TU Wien                            | External Webinar: TensorFlow    | [more](./Meetups/Meetup_4/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/231715591/) |
-| 3  | 2016-06-06 | Sektor 5                           | Theano and Lasagne     | [more](./Meetups/Meetup_3/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230220712/) |
-| 2  | 2016-05-09 | Sektor 5                           | Image Synthesis / RNNs | [more](./Meetups/Meetup_2/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/230166695/) |
-| 1  | 2016-04-07 | Sektor 5                           | Deep Learning - History, Approaches, Applications | [more](./Meetups/Meetup_1/)  |       |        | [link](https://www.meetup.com/de-DE/Vienna-Deep-Learning-Meetup/events/228582082/)  |
-
-![Logo](./Logo/dlmeetup_logo_150dpi.png "logo")
-
-## Overview
-
-Deep Learning is currently a big & growing trend in data analysis and prediction - and the main fuel of a new era of AI. Google, Facebook and others have shown tremendous success in pushing image, object & speech recognition to the next level.
-
-But Deep Learning can also be used for so many other things! The list of application domains is literally endless.
-
-Although rooted in Neural Network research already in the 1950's, the current trend in Deep Learning is unstoppable, and new approaches and improvements are presented almost every month.
-
-We would like to meet and discuss the latest trends in Deep Learning, Neural Networks and Machine Learning, and reflect the latest developments, both in industry and in research.
-
-The **Vienna Deep Learning Meetup** is positioned at the cross-over of research to industry - having both a focus on novel methods that are published in such a fast pace, and interesting new applications in the startup and industry world. We usually have 2 speakers from either academia, startups or industry, complemented by a "latest news and hot topics" section. Occasionally we do tutorials about software frameworks and how to use Deep Learning in practice. Each evening ends with networking & discussions over drinks and snacks.
-
-Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
-
-If you want to attend this meetup, sign up at our [Meetup page](https://www.meetup.com/Vienna-Deep-Learning-Meetup/). 
-
-## Resources
-
-* [jump to latest slides](#latest_slides)
-* Meetup page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/
-* Wiki: https://github.com/vdlm/meetups/wiki
-* Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
-
-## Your Hosts
-
-|   |   |
-|:-:|:-:|
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. He is now the Head of Machine Learning at [Musimap](http://www.musimap.net), a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[Research Profile](http://www.ifs.tuwien.ac.at/%7Eschindler/) / [LinkedIn](https://www.linkedin.com/in/schindleralexander)]
-|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **René Donner** is Co-Founder and former CTO at contextflow <br> and currently building the medical image annotation platform [mva.ai](https://mva.ai) |
-
-
-## Meetups
-
-| #    | Date | Venue | Topic | Content | Video | Photos | Meetup.com |
-| ---- | ---- | ----- | ----- | ------- | ----- | ------ | ---------- |
-|      |      |       |       |         |       |        |            |
 <a name="latest_slides"/>
