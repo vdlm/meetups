@@ -181,6 +181,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2022-11-17 |  46 |  Liad Magen, TU-INSO | Hot Papers – What's new in NLP? | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
 | 2022-11-17 |  46 |  Rene Donner, mva.ai | Stealing Models from Compiled DNNs | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
 | 2023-01-26 |  47 |  Paul Tiwald, mostly.ai // MUW AI Institute | Synthetic Data // AI in BioMedicine | [pdf](<./Meetups/Meetup_47/slides/20230126 47th VDLM Slides All.pdf>) | 
+| 2023-03-29 |  49 |  Sebastian Schaffer / Lukas Exl | Physics Inspired Neural Networks | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>) | 
+| 2023-03-29 |  49 |  Jason Hoelscher-Obermaier | Truth or Dare - How LLMs disregard truth | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>) | 
+| 2023-03-29 |  49 |  Rene Donner / Aaron Kaplan | VDLM, Survey, Jobs, Events, Hot Papers | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>) | 
 
 
 <a name="latest_slides"/>
