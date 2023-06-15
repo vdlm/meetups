@@ -21,7 +21,6 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 ## Resources
 
-* [jump to latest slides](#latest_slides)
 * Meetup page: https://www.meetup.com/Vienna-Deep-Learning-Meetup/
 * Wiki: https://github.com/vdlm/meetups/wiki
 * Youtube Channel: https://www.youtube.com/channel/UCAVBJhzHK-jleJbyYTDp8cA
@@ -30,7 +29,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 |   |   |
 |:-:|:-:|
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. He is now the Head of Machine Learning at [Musimap](http://www.musimap.net), a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to empower emotion-aware recommender engines. |
+|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. After his position as Head of Machine Learning at [Musimap](https://www.musimap.com), he currently is the Senior Director of AI and Data Science at [Utopia Music](https://utopiamusic.com), a company that uses Deep Learning for music analysis, with use cases such as music identification, music tagging, music emotion recognition and mood-based music recommendation.|
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
 |![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[Research Profile](http://www.ifs.tuwien.ac.at/%7Eschindler/) / [LinkedIn](https://www.linkedin.com/in/schindleralexander)]
 |![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **René Donner** is Co-Founder and former CTO at contextflow <br> and currently building the medical image annotation platform [mva.ai](https://mva.ai) |
@@ -38,12 +37,15 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 ## Meetups
 
-| #    | Date | Venue | Topic | Content | Video | Photos | Meetup.com |
-| ---- | ---- | ----- | ----- | ------- | ----- | ------ | ---------- |
-|      |      |       |       |         |       |        |            |
-| 2023-03-29 |  49 |  Rene Donner / Aaron Kaplan | VDLM, Survey, Jobs, Events, Hot Papers | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>) | 
-| 2023-03-29 |  49 |  Jason Hoelscher-Obermaier | Truth or Dare - How LLMs disregard truth | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>) | 
-| 2023-03-29 |  49 |  Sebastian Schaffer / Lukas Exl | Physics Inspired Neural Networks | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>) | 
+| #    | Date | Speaker | Topic | Slides | Details                         | Video | Photos |
+| ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
+|      |      |         |       |        |                                 |       |        |
+| 2023-05-04 |  50 |  Michael Pieler | Intro, Events + Hot Papers: Large Language Models | [pdf](<./Meetups/Meetup_50/slides/50th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>) | [details](./Meetups/Meetup_50/) | 
+| 2023-05-04 |  50 |  Sharwin Rezagholi | Introduction to (Deep) Reinforcement Learning | [pdf](<./Meetups/Meetup_50/slides/Intro_Reinforcement_Learning_VDLM50.pdf>) | [details](./Meetups/Meetup_50/) | 
+| 2023-05-04 |  50 |  Rudolf Mayer | Security of Machine Learning Systems – (How) Can We Get There? | [pdf](<./Meetups/Meetup_50/slides/20230504_VDLM_Security_of_ML.pdf>) | [details](./Meetups/Meetup_50/) | 
+| 2023-03-29 |  49 |  Rene Donner / Aaron Kaplan | VDLM, Survey, Jobs, Events, Hot Papers | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>) | [details](./Meetups/Meetup_49/) | 
+| 2023-03-29 |  49 |  Jason Hoelscher-Obermaier | Truth or Dare - How LLMs disregard truth | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>) | [details](./Meetups/Meetup_49/) | 
+| 2023-03-29 |  49 |  Sebastian Schaffer / Lukas Exl | Physics Inspired Neural Networks | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>) | [details](./Meetups/Meetup_49/) | 
 | 2023-02-28 |  48 |  Michael Pieler, OpenBioML.org & Stability.AI | Jobs / Events / Hot Papers session: Language Models & Prompt Engineering | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - VDLM, Jobs, Events, Hot Papers on Prompting.pdf>) | 
 | 2023-02-28 |  48 |  Gabriele Libardi, Pompeu Fabra University / Trayport | Neural Program Synthesis – An Overview | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - Program Synthesis presentation .pdf>) | 
 | 2023-02-28 |  48 |  Marco Pasini, Johannes Kepler University | Musika! Fast Infinite Waveform Music Generation | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - MusikaPres_Meetup.pdf>) | 
@@ -137,4 +139,4 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2016-05-09 |  2  | Alex Champandard          | Neural Networks for Image Synthesis                                            |                              |
 | 2016-04-07 |  1  | Thomas Lidy & Jan Schlüter     | Deep Learning: History, Approaches, Applications                          | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
 
-<a name="latest_slides"/>
+

@@ -4,9 +4,10 @@
 * Venue: University of Vienna Bio Building
 * Meetup Page: https://www.meetup.com/vienna-deep-learning-meetup/events/292279874/
 
-[[PDF - VDLM, Survery, Jobs, Hot Topics](<./slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>)]
-[[PDF - PINNs - Physics Inspired Neural Networks](<./slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>)]
-[[PDF - Truth or Dare - How LLMs disregard truth](<./slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>)]
+Slides:
+* [[PDF - Intro, Survey, Jobs, Hot Topics](<./slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>)]
+* [[PDF - PINNs - Physics Inspired Neural Networks](<./slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>)]
+* [[PDF - Truth or Dare - How LLMs disregard truth](<./slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>)]
 
 
 ## Details
