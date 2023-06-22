@@ -40,6 +40,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | #    | Date | Speaker | Topic | Slides | Details                         | Video | Photos |
 | ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
 |      |      |         |       |        |                                 |       |        |
+| 2023-06-15 |  51 |  VLDM | Intro / Events / Jobs | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Agenda and Jobs.pdf>) | [details](./Meetups/Meetup_51/) | 
+| 2023-06-15 |  51 |  Matthias Samwald | After ChatGPT | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Samwald -- After ChatGPT.pdf>) | [details](./Meetups/Meetup_51/) | 
+| 2023-06-15 |  51 |  René Donner | Segment Anything and the Rise of Foundation Models | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Segment Anything.pdf>) | [details](./Meetups/Meetup_51/) | 
 | 2023-05-04 |  50 |  Michael Pieler | Intro, Events + Hot Papers: Large Language Models | [pdf](<./Meetups/Meetup_50/slides/50th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>) | [details](./Meetups/Meetup_50/) | 
 | 2023-05-04 |  50 |  Sharwin Rezagholi | Introduction to (Deep) Reinforcement Learning | [pdf](<./Meetups/Meetup_50/slides/Intro_Reinforcement_Learning_VDLM50.pdf>) | [details](./Meetups/Meetup_50/) | 
 | 2023-05-04 |  50 |  Rudolf Mayer | Security of Machine Learning Systems – (How) Can We Get There? | [pdf](<./Meetups/Meetup_50/slides/20230504_VDLM_Security_of_ML.pdf>) | [details](./Meetups/Meetup_50/) | 
