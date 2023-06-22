@@ -5,6 +5,7 @@
 * Meetup Page: https://www.meetup.com/vienna-deep-learning-meetup/events/293291615/
 
 Slides:
+* [[PDF - Intro / Events / Jobs](<./slides/51st VDLM - Agenda and Jobs.pdf>)]
 * [[PDF - After ChatGPT](<./slides/51st VDLM - Samwald -- After ChatGPT.pdf>)]
 * [[PDF - Segment Anything and the Rise of Foundation Models](<./slides/51st VDLM - Segment Anything.pdf>)]
 
