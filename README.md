@@ -41,10 +41,12 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
 |      |      |         |       |        |                                 |       |        |
 | 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) | 
-| 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) | 
-| 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) | 
+| 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Magen - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) | 
+| 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Schlüter - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) | 
 | ... |  53 |       |  | | 
-| ... |  52 |       |  | | 
+| 2023-09-13 |  52 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_52/) | 
+| 2023-09-13 |  52 | Adrian Braşoveanu  | From Transformers to Large Language Models | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Brasoveanu - From Transformers to LLMs.pdf>) | [details](./Meetups/Meetup_52/) | 
+| 2023-09-13 |  52 | Bogdan Pirvu  | LLM Application Development | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Pirvu - LLM Application Development.pdf>) | [details](./Meetups/Meetup_52/) | 
 | 2023-06-15 |  51 |  VLDM | Intro / Events / Jobs | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Agenda and Jobs.pdf>) | [details](./Meetups/Meetup_51/) | 
 | 2023-06-15 |  51 |  Matthias Samwald | After ChatGPT | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Samwald -- After ChatGPT.pdf>) | [details](./Meetups/Meetup_51/) | 
 | 2023-06-15 |  51 |  René Donner | Segment Anything and the Rise of Foundation Models | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Segment Anything.pdf>) | [details](./Meetups/Meetup_51/) | 
