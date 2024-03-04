@@ -40,7 +40,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #    | Speaker | Topic | Slides | Details                         | Video | Photos |
 | ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
 |      |      |         |       |        |                                 |       |        |
-| 2024-01-17 |  56  | Anastasia Pustozerova | Differential Privacy for Machine Learning  |        | [details](./Meetups/Meetup_56/)   |       |        |
+| 2024-01-17 |  56  | Anastasia Pustozerova | Differential Privacy for Machine Learning  | [pdf](<./Meetups/Meetup_56/DL_meetup_DP_in_ML.pdf>)       | [details](./Meetups/Meetup_56/)   |       |        |
 | 2023-11-16 |  55  | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |        | [details](./Meetups/Meetup_55/) |       |        |
 | 2023-11-16 |  55  | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
 | 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) | 
