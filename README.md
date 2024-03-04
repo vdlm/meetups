@@ -40,10 +40,15 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #    | Speaker | Topic | Slides | Details                         | Video | Photos |
 | ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
 |      |      |         |       |        |                                 |       |        |
+| 2024-01-17 |  56  | Anastasia Pustozerova | Differential Privacy for Machine Learning  |        | [details](./Meetups/Meetup_56/)   |       |        |
+| 2023-11-16 |  55  | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |        | [details](./Meetups/Meetup_55/) |       |        |
+| 2023-11-16 |  55  | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
 | 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) | 
 | 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Magen - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) | 
 | 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Schlüter - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) | 
-| ... |  53 |       |  | | 
+| 2023-10-12 |  53 | Julia Fuith | AI Act: Need to know Facts.  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-10-12 |  53 | Daniela Murhammer-Sas, Alexander Banfield-Mumb  | AI Policy Forum – An Overview.  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-10-12 |  53 | Erich Prem  | Reviewing the issues - What are the challenges and where are the limits of what an AI regulation can and should do?  |        | [details](./Meetups/Meetup_53/)  |       |        |
 | 2023-09-13 |  52 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_52/) | 
 | 2023-09-13 |  52 | Adrian Braşoveanu  | From Transformers to Large Language Models | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Brasoveanu - From Transformers to LLMs.pdf>) | [details](./Meetups/Meetup_52/) | 
 | 2023-09-13 |  52 | Bogdan Pirvu  | LLM Application Development | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Pirvu - LLM Application Development.pdf>) | [details](./Meetups/Meetup_52/) | 
