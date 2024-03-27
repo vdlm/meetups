@@ -37,9 +37,24 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 ## Meetups
 
-| #    | Date | Speaker | Topic | Slides | Details                         | Video | Photos |
+| Date | #    | Speaker | Topic | Slides | Details                         | Video | Photos |
 | ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
 |      |      |         |       |        |                                 |       |        |
+| 2024-01-17 |  56  | Anastasia Pustozerova | Differential Privacy for Machine Learning  | [pdf](<./Meetups/Meetup_56/DL_meetup_DP_in_ML.pdf>)       | [details](./Meetups/Meetup_56/)   |       |        |
+| 2023-11-16 |  55  | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |  [pdf](<./Meetups/Meetup_55/slides/2023-11-16 Deep Learning Meetup - Fake News Detection.pdf>)       | [details](./Meetups/Meetup_55/) |       |        |
+| 2023-11-16 |  55  | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
+| 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) | 
+| 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Magen - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) | 
+| 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Schlüter - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) | 
+| 2023-10-12 |  53 | Julia Fuith | AI Act: Need to know Facts.  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-10-12 |  53 | Daniela Murhammer-Sas, Alexander Banfield-Mumb  | AI Policy Forum – An Overview.  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-10-12 |  53 | Erich Prem  | Reviewing the issues - What are the challenges and where are the limits of what an AI regulation can and should do?  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-09-13 |  52 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_52/) | 
+| 2023-09-13 |  52 | Adrian Braşoveanu  | From Transformers to Large Language Models | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Brasoveanu - From Transformers to LLMs.pdf>) | [details](./Meetups/Meetup_52/) | 
+| 2023-09-13 |  52 | Bogdan Pirvu  | LLM Application Development | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Pirvu - LLM Application Development.pdf>) | [details](./Meetups/Meetup_52/) | 
+| 2023-06-15 |  51 |  VLDM | Intro / Events / Jobs | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Agenda and Jobs.pdf>) | [details](./Meetups/Meetup_51/) | 
+| 2023-06-15 |  51 |  Matthias Samwald | After ChatGPT | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Samwald -- After ChatGPT.pdf>) | [details](./Meetups/Meetup_51/) | 
+| 2023-06-15 |  51 |  René Donner | Segment Anything and the Rise of Foundation Models | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Segment Anything.pdf>) | [details](./Meetups/Meetup_51/) | 
 | 2023-05-04 |  50 |  Michael Pieler | Intro, Events + Hot Papers: Large Language Models | [pdf](<./Meetups/Meetup_50/slides/50th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>) | [details](./Meetups/Meetup_50/) | 
 | 2023-05-04 |  50 |  Sharwin Rezagholi | Introduction to (Deep) Reinforcement Learning | [pdf](<./Meetups/Meetup_50/slides/Intro_Reinforcement_Learning_VDLM50.pdf>) | [details](./Meetups/Meetup_50/) | 
 | 2023-05-04 |  50 |  Rudolf Mayer | Security of Machine Learning Systems – (How) Can We Get There? | [pdf](<./Meetups/Meetup_50/slides/20230504_VDLM_Security_of_ML.pdf>) | [details](./Meetups/Meetup_50/) | 
