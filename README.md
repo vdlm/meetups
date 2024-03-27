@@ -37,12 +37,14 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 ## Meetups
 
-| Date | #    | Speaker | Topic | Slides | Details                         | Video | Photos |
-| ---- | ---- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
-|      |      |         |       |        |                                 |       |        |
-| 2024-01-17 |  56  | Anastasia Pustozerova | Differential Privacy for Machine Learning  | [pdf](<./Meetups/Meetup_56/DL_meetup_DP_in_ML.pdf>)       | [details](./Meetups/Meetup_56/)   |       |        |
-| 2023-11-16 |  55  | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |  [pdf](<./Meetups/Meetup_55/slides/2023-11-16 Deep Learning Meetup - Fake News Detection.pdf>)       | [details](./Meetups/Meetup_55/) |       |        |
-| 2023-11-16 |  55  | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
+| Date | #  | Speaker | Topic | Slides | Details                         | Video | Photos |
+| ---- | -- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
+|      |    |         |       |        |                                 |       |        |
+| 2023-10-18 |  57 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_57/2024-03-19_57th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_57/) |
+| 2023-10-18 |  57 | Paul Puntschart  | Artificial Intelligence for the Pen-and-Paper Game "SIM" | [pdf](<./Meetups/Meetup_57/AI_game_SIM.pdf>) | [details](./Meetups/Meetup_57/) |
+| 2024-01-17 |  56 | Anastasia Pustozerova | Differential Privacy for Machine Learning  | [pdf](<./Meetups/Meetup_56/DL_meetup_DP_in_ML.pdf>)       | [details](./Meetups/Meetup_56/)   |       |        |
+| 2023-11-16 |  55 | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |  [pdf](<./Meetups/Meetup_55/slides/2023-11-16 Deep Learning Meetup - Fake News Detection.pdf>)       | [details](./Meetups/Meetup_55/) |       |        |
+| 2023-11-16 |  55 | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
 | 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) | 
 | 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Magen - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) | 
 | 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Schlüter - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) | 
