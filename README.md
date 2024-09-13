@@ -40,8 +40,10 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         | Video | Photos |
 | ---- | -- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
 |      |    |         |       |        |                                 |       |        |
-| 2023-10-18 |  57 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_57/2024-03-19_57th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_57/) |
-| 2023-10-18 |  57 | Paul Puntschart  | Artificial Intelligence for the Pen-and-Paper Game "SIM" | [pdf](<./Meetups/Meetup_57/AI_game_SIM.pdf>) | [details](./Meetups/Meetup_57/) |
+| 2024-09-11 |  61 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_61/2024-09-11_61st_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_61/) |
+| 2024-09-11 |  61 | Martin Trapp  | Uncertainty Quantification in Deep Learning  | [pdf](<./Meetups/Meetup_61/Martin_Trapp_Uncertainty_Quantification_in_Deep_Learning.pdf>) | [details](./Meetups/Meetup_61/) |
+| 2024-03-19 |  57 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_57/2024-03-19_57th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_57/) |
+| 2024-03-19 |  57 | Paul Puntschart  | Artificial Intelligence for the Pen-and-Paper Game "SIM" | [pdf](<./Meetups/Meetup_57/AI_game_SIM.pdf>) | [details](./Meetups/Meetup_57/) |
 | 2024-01-17 |  56 | Anastasia Pustozerova | Differential Privacy for Machine Learning  | [pdf](<./Meetups/Meetup_56/DL_meetup_DP_in_ML.pdf>)       | [details](./Meetups/Meetup_56/)   |       |        |
 | 2023-11-16 |  55 | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |  [pdf](<./Meetups/Meetup_55/slides/2023-11-16 Deep Learning Meetup - Fake News Detection.pdf>)       | [details](./Meetups/Meetup_55/) |       |        |
 | 2023-11-16 |  55 | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
