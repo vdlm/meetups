@@ -17,7 +17,7 @@ The **Vienna Deep Learning Meetup** is positioned at the cross-over of research 
 
 Note that this meetup has an intermediate to advanced level (we have done introductions to Deep Learning and neural networks only in the beginning, but try to repeat the most important concepts regularly).
 
-If you want to attend this meetup, sign up at our [Meetup page](https://www.meetup.com/Vienna-Deep-Learning-Meetup/). 
+If you want to attend this meetup, sign up at our [Meetup page](https://www.meetup.com/Vienna-Deep-Learning-Meetup/).
 
 ## Resources
 
@@ -29,64 +29,76 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 |   |   |
 |:-:|:-:|
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/xsjdsajv-400x4001-400x400.jpg "Thomas Lidy")         | **Thomas Lidy** has been a researcher in music information retrieval combined with machine learning at [TU Wien](http://www.ifs.tuwien.ac.at/~lidy/) from 2004 to 2017. After his position as Head of Machine Learning at [Musimap](https://www.musimap.com), he currently is the Senior Director of AI and Data Science at [Utopia Music](https://utopiamusic.com), a company that uses Deep Learning for music analysis, with use cases such as music identification, music tagging, music emotion recognition and mood-based music recommendation.|
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/portrait1-150x200.jpg "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
-|![Logo](http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[Research Profile](http://www.ifs.tuwien.ac.at/%7Eschindler/) / [LinkedIn](https://www.linkedin.com/in/schindleralexander)]
-|![Logo](https://avatars3.githubusercontent.com/u/1553856?s=460&v=4 "Rene Donner")                                      | **René Donner** is Co-Founder and former CTO at contextflow <br> and currently building the medical image annotation platform [mva.ai](https://mva.ai) |
+|![Photo](https://github.com/user-attachments/assets/58baad41-e46f-4592-b104-910d31416324 "Thomas Lidy")         | **Thomas Lidy** has been a researcher on music & AI at [TU Wien](http://www.ifs.tuwien.ac.at/) from 2004 to 2017. After positions as Head of ML and Senior Director of AI and Data Science at [Musimap](https://www.musimap.com) and [Utopia Music](https://utopiamusic.com/), respectively, he is currently the Head of Data Science and AI at [iGroove Music](https://www.igroovemusic.com/). |
+|![Photo](https://github.com/user-attachments/assets/f1a20978-cc4b-4248-a7b2-39ad4256357b "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
+|![Photo](https://github.com/user-attachments/assets/fdd6b90c-7c57-457c-8939-a9a1595c9c1c "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[LinkedIn](https://www.linkedin.com/in/schindleralexander)]
+|![Photo](https://github.com/user-attachments/assets/3334f741-0571-483c-8878-91e4bbc600ff "Rene Donner")                                      | **René Donner** is a Co-Founder and former CTO at contextflow. Currently he is building the medical image annotation platform [mva.ai](https://mva.ai) |
+|![Photo](https://github.com/user-attachments/assets/f7c62710-fbdb-47d3-92b0-89437fbe87d1 "Pavol Harar")                                      | **Pavol Harar** is a Computational Scientist for BioAI & Cryo-Electron Tomography at [ISTA](https://ista.ac.at) and a Co-founder of [ACAI.AI](https://acai.ai) [[Personal web](https://pavol.harar.eu) / [LinkedIn](https://www.linkedin.com/in/pavol-harar/)] |
 
 
 ## Meetups
 
-| Date | #  | Speaker | Topic | Slides | Details                         | Video | Photos |
-| ---- | -- | ------- | ----- | ------ |---------------------------------| ----- | ------ |
-|      |    |         |       |        |                                 |       |        |
+| Date | #  | Speaker | Topic | Slides | Details                         |
+| ---- | -- | ------- | ----- | ------ |---------------------------------|
+|      |    |         |       |        |                                 |
+| 2024-11-07 |  63 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_63/2024-11-07_63rd_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_63/) |
+| 2024-11-07 |  63 | Adam Kolář  | Case Study: When LLMs Meet the Clinical Trial | | [details](./Meetups/Meetup_63/) |
+| 2024-11-07 |  63 | Shah Nawaz  | Robust Multimodal Learning |  | [details](./Meetups/Meetup_63/) |
+| 2024-10-08 |  62 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_62/2024-10-08_62nd_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_62/) |
+| 2024-10-08 |  62 | Andreas Stephan  | From Calculation to Adjudication: Examining LLM Judges on Mathematical Reasoning Tasks | [pdf](<./Meetups/Meetup_62/Andreas_Stephan_LLM_Judges.pdf>) | [details](./Meetups/Meetup_62/) |
+| 2024-10-08 |  62 | Taylor Peer  | Deep Learning for Music Production: Enhanced Symbolic Mucis Generation with Beat Shaper | [pdf](<./Meetups/Meetup_62/Taylor_Peer_Beat_Shaper.pdf>) | [details](./Meetups/Meetup_62/) |
 | 2024-09-11 |  61 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_61/2024-09-11_61st_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_61/) |
 | 2024-09-11 |  61 | Martin Trapp  | Uncertainty Quantification in Deep Learning  | [pdf](<./Meetups/Meetup_61/Martin_Trapp_Uncertainty_Quantification_in_Deep_Learning.pdf>) | [details](./Meetups/Meetup_61/) |
+| 2024-06-19 |  60 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_60/2024-06-19_60th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_60/) |
+| 2024-06-19 |  60 | Charles Fieseler  | Self-supervised learning for zero-shot tracking | [pdf](<./Meetups/Meetup_60/Charles_Fieseler_Self-supervised_learning_for_zero-shot_tracking.pdf>) | [details](./Meetups/Meetup_60/) |
+| 2024-05-15 |  59 | Rahim Entezari | Stable Diffusion 3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis | | |
+| 2024-04-08 |  58 | Liad Magen | Retrieval-Augmented Generation (RAG) - Where are we now? | [pdf](<./Meetups/Meetup_58/Liad_Magen_RAG_VDLM.pdf>) | [details](./Meetups/Meetup_58/) |
+| 2024-04-08 |  58 | Aaron Kaplan | How to measure quality of LLMs: Lessons learned from creating a benchmark dataset for Cyber Threat Intelligence | | |
 | 2024-03-19 |  57 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_57/2024-03-19_57th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_57/) |
 | 2024-03-19 |  57 | Paul Puntschart  | Artificial Intelligence for the Pen-and-Paper Game "SIM" | [pdf](<./Meetups/Meetup_57/AI_game_SIM.pdf>) | [details](./Meetups/Meetup_57/) |
 | 2024-01-17 |  56 | Anastasia Pustozerova | Differential Privacy for Machine Learning  | [pdf](<./Meetups/Meetup_56/DL_meetup_DP_in_ML.pdf>)       | [details](./Meetups/Meetup_56/)   |       |        |
 | 2023-11-16 |  55 | Alexander Schindler, Mina Schütz | Countering fake news with deep learning - a retrospective summary of five years of research |  [pdf](<./Meetups/Meetup_55/slides/2023-11-16 Deep Learning Meetup - Fake News Detection.pdf>)       | [details](./Meetups/Meetup_55/) |       |        |
 | 2023-11-16 |  55 | Meder Kamalov | From Development to Deployment: Leveraging 'fal' for Efficient AI Model Serving |        | [details](./Meetups/Meetup_55/) |       |        |
-| 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) | 
-| 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Magen - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) | 
-| 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Schlüter - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) | 
-| 2023-10-12 |  53 | Julia Fuith | AI Act: Need to know Facts.  |        | [details](./Meetups/Meetup_53/)  |       |        |
-| 2023-10-12 |  53 | Daniela Murhammer-Sas, Alexander Banfield-Mumb  | AI Policy Forum – An Overview.  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-10-18 |  54 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_54/) |
+| 2023-10-18 |  54 | Liad Magen  | Extracting Gold From Your Paper Pile: State-of-the-art methods for information extraction from paper documents | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Magen - Extracting Gold.pdf>) | [details](./Meetups/Meetup_54/) |
+| 2023-10-18 |  54 | Jan Schlüter  | Music Audio Generation in 2023: A Selective Review | [pdf](<./Meetups/Meetup_54/slides/54th VDLM - Schlüter - Music Audio Generation.pdf>) | [details](./Meetups/Meetup_54/) |
+| 2023-10-12 |  53 | Julia Fuith | AI Act: Need to know Facts  |        | [details](./Meetups/Meetup_53/)  |       |        |
+| 2023-10-12 |  53 | Daniela Murhammer-Sas, Alexander Banfield-Mumb  | AI Policy Forum – An Overview  |        | [details](./Meetups/Meetup_53/)  |       |        |
 | 2023-10-12 |  53 | Erich Prem  | Reviewing the issues - What are the challenges and where are the limits of what an AI regulation can and should do?  |        | [details](./Meetups/Meetup_53/)  |       |        |
-| 2023-09-13 |  52 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_52/) | 
-| 2023-09-13 |  52 | Adrian Braşoveanu  | From Transformers to Large Language Models | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Brasoveanu - From Transformers to LLMs.pdf>) | [details](./Meetups/Meetup_52/) | 
-| 2023-09-13 |  52 | Bogdan Pirvu  | LLM Application Development | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Pirvu - LLM Application Development.pdf>) | [details](./Meetups/Meetup_52/) | 
-| 2023-06-15 |  51 |  VLDM | Intro / Events / Jobs | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Agenda and Jobs.pdf>) | [details](./Meetups/Meetup_51/) | 
-| 2023-06-15 |  51 |  Matthias Samwald | After ChatGPT | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Samwald -- After ChatGPT.pdf>) | [details](./Meetups/Meetup_51/) | 
-| 2023-06-15 |  51 |  René Donner | Segment Anything and the Rise of Foundation Models | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Segment Anything.pdf>) | [details](./Meetups/Meetup_51/) | 
-| 2023-05-04 |  50 |  Michael Pieler | Intro, Events + Hot Papers: Large Language Models | [pdf](<./Meetups/Meetup_50/slides/50th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>) | [details](./Meetups/Meetup_50/) | 
-| 2023-05-04 |  50 |  Sharwin Rezagholi | Introduction to (Deep) Reinforcement Learning | [pdf](<./Meetups/Meetup_50/slides/Intro_Reinforcement_Learning_VDLM50.pdf>) | [details](./Meetups/Meetup_50/) | 
-| 2023-05-04 |  50 |  Rudolf Mayer | Security of Machine Learning Systems – (How) Can We Get There? | [pdf](<./Meetups/Meetup_50/slides/20230504_VDLM_Security_of_ML.pdf>) | [details](./Meetups/Meetup_50/) | 
-| 2023-03-29 |  49 |  Rene Donner / Aaron Kaplan | VDLM, Survey, Jobs, Events, Hot Papers | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>) | [details](./Meetups/Meetup_49/) | 
-| 2023-03-29 |  49 |  Jason Hoelscher-Obermaier | Truth or Dare - How LLMs disregard truth | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>) | [details](./Meetups/Meetup_49/) | 
-| 2023-03-29 |  49 |  Sebastian Schaffer / Lukas Exl | Physics Inspired Neural Networks | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>) | [details](./Meetups/Meetup_49/) | 
-| 2023-02-28 |  48 |  Michael Pieler, OpenBioML.org & Stability.AI | Jobs / Events / Hot Papers session: Language Models & Prompt Engineering | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - VDLM, Jobs, Events, Hot Papers on Prompting.pdf>) | 
-| 2023-02-28 |  48 |  Gabriele Libardi, Pompeu Fabra University / Trayport | Neural Program Synthesis – An Overview | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - Program Synthesis presentation .pdf>) | 
-| 2023-02-28 |  48 |  Marco Pasini, Johannes Kepler University | Musika! Fast Infinite Waveform Music Generation | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - MusikaPres_Meetup.pdf>) | 
-| 2023-01-26 |  47 |  Paul Tiwald, mostly.ai // MUW AI Institute | Synthetic Data // AI in BioMedicine | [pdf](<./Meetups/Meetup_47/slides/20230126 47th VDLM Slides All.pdf>) | 
-| 2022-11-17 |  46 |  Rene Donner, mva.ai | Stealing Models from Compiled DNNs | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
-| 2022-11-17 |  46 |  Liad Magen, TU-INSO | Hot Papers – What's new in NLP? | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
-| 2022-11-17 |  46 |  Georg Braun, emotion3d.ai | Going Embedded: Real-time Deep Learning for automotive applications | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
-| 2022-11-17 |  46 |  Marc Javin, emotion3d.ai | Eye Analysis: Designing Neural Network for the Automotive Industry | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) | 
-| 2022-11-17 |  46 |  VDLM | Job Openings | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM Job Openings.pdf>) | 
-| 2022-10-18 |  45 |  Lukas Zimmermann / Michael Pieler     | Neural Radiance Fields / Stable Diffusion | [pdf](<./Meetups/Meetup_45/slides/20221018 45th VDLM.pdf>) | 
-| 2022-05-18 |  44 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_44/slides/Pieler_GPT-NeoX.pdf>) | 
-| 2022-05-18 |  44 |  René Donner     | ICLR 2022 - Trends & interesting highlights | [pdf](<./Meetups/Meetup_44/slides/Donner_ICLR_Review.pdf>) | 
-| 2022-05-18 |  44 |       | Intro slides | [pdf](<./Meetups/Meetup_44/slides/Intro.pdf>) | 
-| 2021-12-01 |  43 |  Jan Schlüter       | Transformers follow-up: What about audio? | [pdf](<./Meetups/Meetup_43/slides/Audio Transformers.pdf>) | 
-| 2021-12-01 |  43 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_43/slides/VDLM_Transformers_with_a_focus_on_CV_20211201.pdf>) | 
-| ... |  42 |       |  | | 
-| ... |  41 |       |  | | 
-| ... |  40 |       |  | | 
-| ... |  39 |       |  | | 
-| 2021-02-17 |  38 | Jan Schlüter        | Coordinate-based Neural Representations | [pdf](<./Meetups/Meetup_38/slides/Jan Schlüter - Coordinate-based Neural Representations.pdf>) | 
-| 2021-02-17 |  38 | Michael Pieler      | OpenAI: CLIP & DALL·E | [pdf](<./Meetups/Meetup_38/slides/38th Deep Learning Meetup Intro - Announcements.pdf>) | 
-| 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](<./Meetups/Meetup_37/slides/TODO>) | 
+| 2023-09-13 |  52 | VDLM  | Intro / Jobs | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Introduction.pdf>) | [details](./Meetups/Meetup_52/) |
+| 2023-09-13 |  52 | Adrian Braşoveanu  | From Transformers to Large Language Models | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Brasoveanu - From Transformers to LLMs.pdf>) | [details](./Meetups/Meetup_52/) |
+| 2023-09-13 |  52 | Bogdan Pirvu  | LLM Application Development | [pdf](<./Meetups/Meetup_52/slides/52nd VDLM - Pirvu - LLM Application Development.pdf>) | [details](./Meetups/Meetup_52/) |
+| 2023-06-15 |  51 |  VLDM | Intro / Events / Jobs | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Agenda and Jobs.pdf>) | [details](./Meetups/Meetup_51/) |
+| 2023-06-15 |  51 |  Matthias Samwald | After ChatGPT | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Samwald -- After ChatGPT.pdf>) | [details](./Meetups/Meetup_51/) |
+| 2023-06-15 |  51 |  René Donner | Segment Anything and the Rise of Foundation Models | [pdf](<./Meetups/Meetup_51/slides/51st VDLM - Segment Anything.pdf>) | [details](./Meetups/Meetup_51/) |
+| 2023-05-04 |  50 |  Michael Pieler | Intro, Events + Hot Papers: Large Language Models | [pdf](<./Meetups/Meetup_50/slides/50th Deep Learning Meetup Intro - Announcements - Hot Topics.pdf>) | [details](./Meetups/Meetup_50/) |
+| 2023-05-04 |  50 |  Sharwin Rezagholi | Introduction to (Deep) Reinforcement Learning | [pdf](<./Meetups/Meetup_50/slides/Intro_Reinforcement_Learning_VDLM50.pdf>) | [details](./Meetups/Meetup_50/) |
+| 2023-05-04 |  50 |  Rudolf Mayer | Security of Machine Learning Systems – (How) Can We Get There? | [pdf](<./Meetups/Meetup_50/slides/20230504_VDLM_Security_of_ML.pdf>) | [details](./Meetups/Meetup_50/) |
+| 2023-03-29 |  49 |  Rene Donner / Aaron Kaplan | VDLM, Survey, Jobs, Events, Hot Papers | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Jobs, Events, Hot Topics.pdf>) | [details](./Meetups/Meetup_49/) |
+| 2023-03-29 |  49 |  Jason Hoelscher-Obermaier | Truth or Dare - How LLMs disregard truth | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Truth or Dare_ How LLMs disregard truth.pdf>) | [details](./Meetups/Meetup_49/) |
+| 2023-03-29 |  49 |  Sebastian Schaffer / Lukas Exl | Physics Inspired Neural Networks | [pdf](<./Meetups/Meetup_49/slides/20230329 49th VDLM - Physics Inspired Neural Networks.pdf>) | [details](./Meetups/Meetup_49/) |
+| 2023-02-28 |  48 |  Michael Pieler, OpenBioML.org & Stability.AI | Jobs / Events / Hot Papers session: Language Models & Prompt Engineering | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - VDLM, Jobs, Events, Hot Papers on Prompting.pdf>) |
+| 2023-02-28 |  48 |  Gabriele Libardi, Pompeu Fabra University / Trayport | Neural Program Synthesis – An Overview | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - Program Synthesis presentation .pdf>) |
+| 2023-02-28 |  48 |  Marco Pasini, Johannes Kepler University | Musika! Fast Infinite Waveform Music Generation | [pdf](<./Meetups/Meetup_48/slides/20230228 48th - MusikaPres_Meetup.pdf>) |
+| 2023-01-26 |  47 |  Paul Tiwald, mostly.ai // MUW AI Institute | Synthetic Data // AI in BioMedicine | [pdf](<./Meetups/Meetup_47/slides/20230126 47th VDLM Slides All.pdf>) |
+| 2022-11-17 |  46 |  Rene Donner, mva.ai | Stealing Models from Compiled DNNs | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) |
+| 2022-11-17 |  46 |  Liad Magen, TU-INSO | Hot Papers – What's new in NLP? | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) |
+| 2022-11-17 |  46 |  Georg Braun, emotion3d.ai | Going Embedded: Real-time Deep Learning for automotive applications | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) |
+| 2022-11-17 |  46 |  Marc Javin, emotion3d.ai | Eye Analysis: Designing Neural Network for the Automotive Industry | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM.pdf>) |
+| 2022-11-17 |  46 |  VDLM | Job Openings | [pdf](<./Meetups/Meetup_46/slides/20221117 46th VDLM Job Openings.pdf>) |
+| 2022-10-18 |  45 |  Lukas Zimmermann / Michael Pieler     | Neural Radiance Fields / Stable Diffusion | [pdf](<./Meetups/Meetup_45/slides/20221018 45th VDLM.pdf>) |
+| 2022-05-18 |  44 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_44/slides/Pieler_GPT-NeoX.pdf>) |
+| 2022-05-18 |  44 |  René Donner     | ICLR 2022 - Trends & interesting highlights | [pdf](<./Meetups/Meetup_44/slides/Donner_ICLR_Review.pdf>) |
+| 2022-05-18 |  44 |       | Intro slides | [pdf](<./Meetups/Meetup_44/slides/Intro.pdf>) |
+| 2021-12-01 |  43 |  Jan Schlüter       | Transformers follow-up: What about audio? | [pdf](<./Meetups/Meetup_43/slides/Audio Transformers.pdf>) |
+| 2021-12-01 |  43 |  Michael Pieler     | Introduction to Transformers with a focus on Computer Vision | [pdf](<./Meetups/Meetup_43/slides/VDLM_Transformers_with_a_focus_on_CV_20211201.pdf>) |
+| ... |  42 |       |  | |
+| ... |  41 |       |  | |
+| ... |  40 |       |  | |
+| ... |  39 |       |  | |
+| 2021-02-17 |  38 | Jan Schlüter        | Coordinate-based Neural Representations | [pdf](<./Meetups/Meetup_38/slides/Jan Schlüter - Coordinate-based Neural Representations.pdf>) |
+| 2021-02-17 |  38 | Michael Pieler      | OpenAI: CLIP & DALL·E | [pdf](<./Meetups/Meetup_38/slides/38th Deep Learning Meetup Intro - Announcements.pdf>) |
+| 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](<./Meetups/Meetup_37/slides/TODO>) |
 | 2020-12-09 |  36 | Antonis Makropoulos | Practical experiences in accurate video segmentation | n/a |
 | 2020-10-13 |  35 | Liad Magen          | Introduction to Graph Neural Networks | [pdf](<Meetups/Meetup_35/slides/Graph Neural Networks - Deep Learning Meetup.pdf>) |
 | 2020-08-20 |  34 | Sander Dieleman     | Generating music in the waveform domain  | [pdf](<Meetups/Meetup_34/slides/Sander Dieleman - Generating music in the waveform domain.pdf>) |
@@ -157,5 +169,3 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2016-05-09 |  2  | Gregor Mitscha-Baude      | Recurrent Neural Networks                                                      | [pdf](./Meetups/Meetup_2/slides/2nd_meetup_RNN_presentation.pdf)  |
 | 2016-05-09 |  2  | Alex Champandard          | Neural Networks for Image Synthesis                                            |                              |
 | 2016-04-07 |  1  | Thomas Lidy & Jan Schlüter     | Deep Learning: History, Approaches, Applications                          | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
-
-
