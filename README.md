@@ -43,7 +43,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 |      |    |         |       |        |                                 |
 | 2024-11-07 |  63 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_63/2024-11-07_63rd_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_63/) |
 | 2024-11-07 |  63 | Adam Kolář  | Case Study: When LLMs Meet the Clinical Trial | | [details](./Meetups/Meetup_63/) |
-| 2024-11-07 |  63 | Shah Nawaz  | Robust Multimodal Learning |  | [details](./Meetups/Meetup_63/) |
+| 2024-11-07 |  63 | Shah Nawaz  | Robust Multimodal Learning | [pdf](<./Meetups/Meetup_63/Shah_Nawaz_Multimodal_Learning.pdf>) | [details](./Meetups/Meetup_63/) |
 | 2024-10-08 |  62 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_62/2024-10-08_62nd_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_62/) |
 | 2024-10-08 |  62 | Andreas Stephan  | From Calculation to Adjudication: Examining LLM Judges on Mathematical Reasoning Tasks | [pdf](<./Meetups/Meetup_62/Andreas_Stephan_LLM_Judges.pdf>) | [details](./Meetups/Meetup_62/) |
 | 2024-10-08 |  62 | Taylor Peer  | Deep Learning for Music Production: Enhanced Symbolic Mucis Generation with Beat Shaper | [pdf](<./Meetups/Meetup_62/Taylor_Peer_Beat_Shaper.pdf>) | [details](./Meetups/Meetup_62/) |
