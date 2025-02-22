@@ -29,7 +29,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 |   |   |
 |:-:|:-:|
-|![Photo](https://github.com/user-attachments/assets/58baad41-e46f-4592-b104-910d31416324 "Thomas Lidy")         | **Thomas Lidy** has been a researcher on music & AI at [TU Wien](http://www.ifs.tuwien.ac.at/) from 2004 to 2017. After positions as Head of ML and Senior Director of AI and Data Science at [Musimap](https://www.musimap.com) and [Utopia Music](https://utopiamusic.com/), respectively, he is currently the Head of Data Science and AI at [iGroove Music](https://www.igroovemusic.com/). |
+|![Photo](https://github.com/user-attachments/assets/58baad41-e46f-4592-b104-910d31416324 "Thomas Lidy")         | **Thomas Lidy** has been a researcher on music & AI at [TU Wien](http://www.ifs.tuwien.ac.at/) from 2004 to 2017. After positions as Head of ML and Senior Director of AI and Data Science at [Musimap](https://www.musimap.com) and Utopia Music, respectively, he is currently the Head of Data Science and AI at [iGroove Music](https://www.igroovemusic.com/). |
 |![Photo](https://github.com/user-attachments/assets/f1a20978-cc4b-4248-a7b2-39ad4256357b "Jan Schlüter")                | **Jan Schlüter** has been pursuing research on deep learning for audio processing since 2010, currently as a university assistant at the [Johannes Kepler University Linz](https://www.jku.at/en/institute-of-computational-perception/). |
 |![Photo](https://github.com/user-attachments/assets/fdd6b90c-7c57-457c-8939-a9a1595c9c1c "Alexander Schindler") | **Alexander Schindler** researches audio-visual aspects of music information. He is machine learning specialist at the Digital Insight Lab of the AIT Austrian Institute of Technology and lecturer at the Technical University of Vienna. [[LinkedIn](https://www.linkedin.com/in/schindleralexander)]
 |![Photo](https://github.com/user-attachments/assets/3334f741-0571-483c-8878-91e4bbc600ff "Rene Donner")                                      | **René Donner** is a Co-Founder and former CTO at contextflow. Currently he is building the medical image annotation platform [mva.ai](https://mva.ai) |
@@ -41,6 +41,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
+| 2025-02-20 |  64 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_64/2025-02-20_64th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_64/) |
+| 2025-02-20 |  64 | Adam Gosztolai | The Neural Basis of Cognitive Strategies | (n/a) | [details](./Meetups/Meetup_64/) |
+| 2025-02-20 |  64 | Mouhannad Ali and Julius Duin | GenAI for Images 2025 | [pdf](<./Meetups/Meetup_64/GenAI-for-images-2025.pdf>) | [details](./Meetups/Meetup_64/) [video](https://www.youtube.com/watch?v=Z6_noorMWXs) |
 | 2024-11-07 |  63 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_63/2024-11-07_63rd_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_63/) |
 | 2024-11-07 |  63 | Adam Kolář  | Case Study: When LLMs Meet the Clinical Trial | | [details](./Meetups/Meetup_63/) |
 | 2024-11-07 |  63 | Shah Nawaz  | Robust Multimodal Learning | [pdf](<./Meetups/Meetup_63/Shah_Nawaz_Multimodal_Learning.pdf>) | [details](./Meetups/Meetup_63/) |
