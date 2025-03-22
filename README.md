@@ -41,8 +41,11 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
+| 2025-03-19 |  65 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_65/2025-03-18_65th_VDLM Meetup_Intro_Agenda_Announcements.pdf>) | [details](./Meetups/Meetup_65/) |
+| 2025-03-19 |  65 | Muhamed Loshi | LLM Security Threats: Prompt Injection, Jailbreaking, and Protecting LLM Applications | [pdf](<./Meetups/Meetup_65/LLM_Security_Muhamed_Loshi_MeetupPresentation.pdf>) | [details](./Meetups/Meetup_65/) [video](https://youtu.be/VCjbI_jvKqY?si=lF90BDf7ntTe3buO)|
+| 2025-03-19 |  65 | Paul Tiwald | TabularARGN: Fast, Flexible, and High-Quality Synthetic Data Generation for Real-World Applications | [pdf](<./Meetups/Meetup_65/TabularARGN_Synthetic_Data.pdf>) | [details](./Meetups/Meetup_65/) [video](https://youtu.be/VCjbI_jvKqY?si=lF90BDf7ntTe3buO) |
 | 2025-02-20 |  64 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_64/2025-02-20_64th_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_64/) |
-| 2025-02-20 |  64 | Adam Gosztolai | The Neural Basis of Cognitive Strategies | (n/a) | [details](./Meetups/Meetup_64/) |
+| 2025-02-20 |  64 | Adam Gosztolai | The Neural Basis of Cognitive Strategies | | [details](./Meetups/Meetup_64/) |
 | 2025-02-20 |  64 | Mouhannad Ali and Julius Duin | GenAI for Images 2025 | [pdf](<./Meetups/Meetup_64/GenAI-for-images-2025.pdf>) | [details](./Meetups/Meetup_64/) [video](https://www.youtube.com/watch?v=Z6_noorMWXs) |
 | 2024-11-07 |  63 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_63/2024-11-07_63rd_VDLM_Meetup.pdf>) | [details](./Meetups/Meetup_63/) |
 | 2024-11-07 |  63 | Adam Kolář  | Case Study: When LLMs Meet the Clinical Trial | | [details](./Meetups/Meetup_63/) |
