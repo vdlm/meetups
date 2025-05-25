@@ -41,6 +41,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
+| 2025-05-22 |  66 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Meetup.pdf>) | [details](./Meetups/Meetup_66/) |
+| 2025-05-22 |  66 | Alexander Bronstein | Learning to See in the Age of AI | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Alexander Bronstein Learning to See in the Age of AI.pdf>) | [details](./Meetups/Meetup_66/)|
+| 2025-05-22 |  66 | Michael Pieler | Kaggle Winner: WSDM Cup - Multilingual Chatbot Arena | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Michael Pieler WSDM Cup Winner Multilingual Chatbot Arena.pdf>) | [details](./Meetups/Meetup_66/) |
 | 2025-03-19 |  65 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_65/2025-03-18_65th_VDLM Meetup_Intro_Agenda_Announcements.pdf>) | [details](./Meetups/Meetup_65/) |
 | 2025-03-19 |  65 | Muhamed Loshi | LLM Security Threats: Prompt Injection, Jailbreaking, and Protecting LLM Applications | [pdf](<./Meetups/Meetup_65/LLM_Security_Muhamed_Loshi_MeetupPresentation.pdf>) | [details](./Meetups/Meetup_65/) [video](https://youtu.be/VCjbI_jvKqY?si=lF90BDf7ntTe3buO)|
 | 2025-03-19 |  65 | Paul Tiwald | TabularARGN: Fast, Flexible, and High-Quality Synthetic Data Generation for Real-World Applications | [pdf](<./Meetups/Meetup_65/TabularARGN_Synthetic_Data.pdf>) | [details](./Meetups/Meetup_65/) [video](https://youtu.be/VCjbI_jvKqY?si=lF90BDf7ntTe3buO) |
