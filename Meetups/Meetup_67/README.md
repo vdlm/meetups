@@ -1,11 +1,11 @@
-# 66th Vienna Deep Learning Meetup: Learning to See & Multilingual Chatbot Winner
+# 67th Vienna Deep Learning Meetup: CLIP Deep Dive
 
 Dear Deep Learners,
 
-Our next meetup takes place on May 22. Here is the updated agenda:
+Our last meetup before summer takes place on June 16. Here is the agenda in short:
 
-    Learning to See in the Age of AI - by Alexander Bronstein
-    Insights from the winning team of a Multilingual Chatbot Competition - by Michael Pieler
+    A Deep Dive into CLIP embeddings - by Damian Stewart
+    LLMs for Abusive Language Detection - by Julia Pardatscher (cancelled)
 
 Please find the details below:
 
@@ -18,8 +18,8 @@ Agenda:
 
 18:45
 
-    Talk 1: Learning to See in the Age of AI
-    by Alexander Bronstein
+    Talk 1: A Deep Dive into CLIP embeddings
+    by Damian Stewart
 
 19:30
 
@@ -28,8 +28,9 @@ Agenda:
 
 20:00
 
-    Talk 2: Winner of the WSDM Cup Multilingual Chatbot Arena Kaggle Competition: Summary & Details
-    by Michael Pieler
+    ** CANCELLED ** Talk 2: Revisiting Implicitly Abusive Language Detection: Evaluating LLMs in Zero-Shot and Few-Shot Settings
+    by Julia Pardatscher
+    -> this talk will be postponed to fall
 
 20:40
 
@@ -38,20 +39,28 @@ Agenda:
 22:00 Wrap up & End
 ***
 Talk Details:
-Talk 1: Learning to See in the Age of AI
-Recent spectacular advances in machine learning techniques allow solving complex computer vision tasks -- all the way down to vision-based decision making. However, the input image itself is still produced by imaging systems that were built to produce human-intelligible pictures that are not necessarily optimal for the end task. In this talk, I will try to entertain ourselves with the idea of including the camera hardware (optics and electronics) among the learnable degrees of freedom. I will show examples from optical, ultrasound, and magnetic resonance imaging demonstrating that simultaneously learning the "software" and the "hardware" parts of an imaging system is beneficial for the end task.
+Talk 1: A Deep Dive into CLIP embeddings
+CLIP embeddings are at the heart of multimodal AI. This talk moves beyond basic applications to delve into how CLIP maps language to images, critically examining the power and unexpected limitations of its mathematical similarity measures through concrete examples. We’ll explore creative ways to manipulate CLIP’s latent space, uncovering untapped potential for generative and search applications. Finally we'll broaden our focus to the challenge of modelling visual meaning more generally. Taking a very gentle step into poststructuralist philosophy, we'll consider the logical limits of systems like CLIP, and the pitfalls of web-scale visual pre-training. By the end we'll have a solid understanding of what CLIP is, what it can and cannot do - and why.
+
+Talk Outline:
+1. Understanding CLIP Embeddings:
+An introduction to how CLIP models map images and text into a shared latent space: what embeddings are, how they are trained, and what they enable. Examples: image search, text-to-image generation.
+
+2. The Limits of Mathematical Meaning:
+How cosine similarity, zero-shot classification, and semantic proximity work, and where these approaches break down. Examples: successful classifications, revealing failures.
+
+3. Manipulating Conceptual Space:
+Using embeddings as a creative tool: vector arithmetic (adding, subtracting, blending), semantic pathfinding, interpolation.
+Examples: semantic exploration, search augmentations, prompt engineering beyond weighting and word selection.
+
+4. Meaning Beyond Mathematics:
+A deeper reflection on relational meaning through CLIP embeddings, drawing (very gently) on post-structuralist philosophy. - How CLIP mirrors Saussurian linguistics, what the means for the influence of culture and ideology on embedding spaces, and why understanding these forces is crucial for building next-generation ML-powered systems.
 
 About the speaker:
-Alexander Bronstein received his M.Sc. in Electrical Engineering and Ph.D. in Department of Computer Science from the Technion in Israel. He has been a professor at the Department of Computer Science at the Technion holding the Schmidt Chair in Artificial Intelligence and the Dan Broida Academic Chair and heading the Center for Intelligent Systems.
-Since 2024 he is a professor at the Austrian Institute of Science and Technology (ISTA). Alex’s current research interests can be broadly described as AI for science and engineering. He is a Fellow of the IEEE and ELLIS and the recipient of four grants from the European Research Council (ERC).
-In addition to his academic activities, he is a technological entrepreneur, inventor and investor. He co-founded and served in leading technical roles in various startup companies spanning diverse technologies and application ranging from depth cameras to video search, from medical devices to food tech and finance.
+Damian Stewart is a software engineer with a distinctive combination of technical depth and humanistic insight. With over 25 years of experience across industry and research, he designs and builds systems that extend capability, foster creativity, and make innovation accessible to a wider world.
 
-Talk 2: Winner of the WSDM Cup Multilingual Chatbot Arena Kaggle Competition: Summary & Details
-In the WSDM Cup Multilingual Chatbot Arena Kaggle competition the challenge was to predict which responses users will prefer in a head-to-head battle between LLM-powered chatbots. Our winning solution consisted of the model training which involved a pre-training, a teacher-training, and a distillation stage and an optimized inference setup to get the highest performance in a specific time-frame with the provided hardware.
+We are very much looking forward to seeing you at our next meetup.
 
-Michael Pieler, an independent researcher, will give a short presentation of the winning solution of his team. In this talk he will summarize and share some details about the winning entry in this competition.
+Thanks to SBA Research drinks and snacks will be provided at this meetup.
 
-We are thankfully hosted by University of Vienna Biology center this time. Please note that we cannot provide food or drinks at this meetup.
-
-Looking forward to seeing you at our next meetup,
 Your VDLM Organizers
