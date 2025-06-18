@@ -41,6 +41,8 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
+| 2025-06-16 |  67 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Meetup.pdf>) | [details](./Meetups/Meetup_67/) |
+| 2025-06-16 |  67 | Damian Stewart | A Deep Dive into CLIP Embeddings | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.pdf>) [video slide](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.mov>) | [details](./Meetups/Meetup_67/)|
 | 2025-05-22 |  66 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Meetup.pdf>) | [details](./Meetups/Meetup_66/) |
 | 2025-05-22 |  66 | Alexander Bronstein | Learning to See in the Age of AI | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Alexander Bronstein Learning to See in the Age of AI.pdf>) | [details](./Meetups/Meetup_66/)|
 | 2025-05-22 |  66 | Michael Pieler | Kaggle Winner: WSDM Cup - Multilingual Chatbot Arena | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Michael Pieler WSDM Cup Winner Multilingual Chatbot Arena.pdf>) | [details](./Meetups/Meetup_66/) |
