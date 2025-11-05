@@ -8,15 +8,14 @@ We are announcing our next Deep Learning Meetup and are glad to have Rahim Entez
 
 
 ## Agenda:
-***
-18:45  Introduction & Welcome by the meetup organizers & hosts
-19:00  Talk 1: Real-time Video Generation with Diffusion Models
+
+* 18:45  Introduction & Welcome by the meetup organizers & hosts
+* 19:00  Talk 1: Real-time Video Generation with Diffusion Models
 by Rahim Entezari (Stability AI)
-19:45 Talk 2: How Mixture of Experts (MoE) Actually Works
+* 19:45 Talk 2: How Mixture of Experts (MoE) Actually Works
 by Florian Kowarsch (nuseum)
-20:15 Announcements
-Networking & Discussion
-~ 22:00 Wrap up & End
+* 20:15 Announcements, Networking & Discussion
+* 22:00 Wrap up & End
 ***
 
 ## Talk Details:
