@@ -9,9 +9,8 @@ Our last meetup before summer takes place on June 16. Here is the agenda in shor
 
 Please find the details below:
 
+## Agenda:
 ***
-Agenda:
-
 18:30
 
     Introduction & Welcome by the meetup organizers
@@ -38,11 +37,14 @@ Agenda:
 
 22:00 Wrap up & End
 ***
-Talk Details:
-Talk 1: A Deep Dive into CLIP embeddings
+
+## Talk Details:
+### A Deep Dive into CLIP embeddings
+
 CLIP embeddings are at the heart of multimodal AI. This talk moves beyond basic applications to delve into how CLIP maps language to images, critically examining the power and unexpected limitations of its mathematical similarity measures through concrete examples. We’ll explore creative ways to manipulate CLIP’s latent space, uncovering untapped potential for generative and search applications. Finally we'll broaden our focus to the challenge of modelling visual meaning more generally. Taking a very gentle step into poststructuralist philosophy, we'll consider the logical limits of systems like CLIP, and the pitfalls of web-scale visual pre-training. By the end we'll have a solid understanding of what CLIP is, what it can and cannot do - and why.
 
-Talk Outline:
+**Talk Outline:**
+
 1. Understanding CLIP Embeddings:
 An introduction to how CLIP models map images and text into a shared latent space: what embeddings are, how they are trained, and what they enable. Examples: image search, text-to-image generation.
 

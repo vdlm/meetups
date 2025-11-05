@@ -41,7 +41,10 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
-| 2025-09-22 |  68 | VDLM  | Intro / Hot Topics | [pdf](<./Meetups/Meetup_68/2025-09-22 68th VDLM.pdf>) | [details](./Meetups/Meetup_68/) |
+| 2025-10-23 |  69 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_69/2025-10-23_69th_VDLM.pdf>) | [details](./Meetups/Meetup_69/) |
+| 2025-10-23 |  69 | Rahim Entezari  | Real-time Video Generation with Diffusion Models | [pdf](<./Meetups/Meetup_69/RahimEntezari_FastVideoGeneration.pdf>) | [details](./Meetups/Meetup_69/) |
+| 2025-10-23 |  69 | Florian Kowarsch  | Mixture of Experts | [pdf](<./Meetups/Meetup_69/Mixture_of_Experts.pdf>) | [details](./Meetups/Meetup_69/) |
+| 2025-09-22 |  68 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_68/2025-09-22 68th VDLM.pdf>) | [details](./Meetups/Meetup_68/) |
 | 2025-09-22 |  68 | Marc Kroll  | CommentSense | [pdf](<./Meetups/Meetup_68/2025-09-22 68th VDLM Marc Kroll CommentSense.pdf>) | [details](./Meetups/Meetup_68/) |
 | 2025-06-16 |  67 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Meetup.pdf>) | [details](./Meetups/Meetup_67/) |
 | 2025-06-16 |  67 | Damian Stewart | A Deep Dive into CLIP Embeddings | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.pdf>) [video slide](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.mov>) | [details](./Meetups/Meetup_67/)|
