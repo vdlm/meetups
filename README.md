@@ -42,6 +42,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
 | 2026-01-26 |  71 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_71/2026_01_26_71st_VDLM.pdf>) | [details](./Meetups/Meetup_71/) |
+| 2026-01-26 |  71 | Liad Magen  | Agentic RAG | [pdf](<./Meetups/Meetup_71/Matryoska and Agentic RAG - VDLM - January 2026.pdf>) | [details](./Meetups/Meetup_71/) |
 | 2025-12-02 |  70 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_70/2025_12_02_70th_VDLM.pdf>) | [details](./Meetups/Meetup_70/) |
 | 2025-12-02 |  70 | Jonathan Scott  | An Introduction to Federated Learning and Approaches to Personalization | [pdf](<./Meetups/Meetup_70/2025_12_02_70th_VDLM_Jonathan_Scott.pdf>) | [details](./Meetups/Meetup_70/) |
 | 2025-12-02 |  70 | Muhamed Loshi  | The Security of MCP in Agentic AI Systems: Risks, Attacks, and Defenses | [pdf](<./Meetups/Meetup_70/2025_12_02_70th_VDLM_Muhamed_Loshi.pdf>) | [details](./Meetups/Meetup_70/) |
