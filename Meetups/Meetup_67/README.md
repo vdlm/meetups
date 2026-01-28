@@ -61,6 +61,8 @@ A deeper reflection on relational meaning through CLIP embeddings, drawing (very
 About the speaker:
 Damian Stewart is a software engineer with a distinctive combination of technical depth and humanistic insight. With over 25 years of experience across industry and research, he designs and builds systems that extend capability, foster creativity, and make innovation accessible to a wider world.
 
+This meetup has been recorded and is available online: https://youtu.be/26pSyyH0AIc
+
 We are very much looking forward to seeing you at our next meetup.
 
 Thanks to SBA Research drinks and snacks will be provided at this meetup.
