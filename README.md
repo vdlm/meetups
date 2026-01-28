@@ -52,8 +52,8 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2025-10-23 |  69 | Florian Kowarsch  | Mixture of Experts | [pdf](<./Meetups/Meetup_69/Mixture_of_Experts.pdf>) | [details](./Meetups/Meetup_69/) |
 | 2025-09-22 |  68 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_68/2025-09-22 68th VDLM.pdf>) | [details](./Meetups/Meetup_68/) |
 | 2025-09-22 |  68 | Marc Kroll  | CommentSense | [pdf](<./Meetups/Meetup_68/2025-09-22 68th VDLM Marc Kroll CommentSense.pdf>) | [details](./Meetups/Meetup_68/) |
-| 2025-06-16 |  67 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Meetup.pdf>) | [details](./Meetups/Meetup_67/) |
-| 2025-06-16 |  67 | Damian Stewart | A Deep Dive into CLIP Embeddings | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.pdf>) [video slide](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.mov>) | [details](./Meetups/Meetup_67/)|
+| 2025-06-16 |  67 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Meetup.pdf>) [video](https://youtu.be/26pSyyH0AIc) | [details](./Meetups/Meetup_67/) |
+| 2025-06-16 |  67 | Damian Stewart | A Deep Dive into CLIP Embeddings | [pdf](<./Meetups/Meetup_67/2025-06-16 67th VDLM Damian Stewart A Deep Dive into CLIP Embeddings.pdf>) [video](https://youtu.be/26pSyyH0AIc&t=280s) | [details](./Meetups/Meetup_67/)|
 | 2025-05-22 |  66 | VDLM  | Intro / Events | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Meetup.pdf>) | [details](./Meetups/Meetup_66/) |
 | 2025-05-22 |  66 | Alexander Bronstein | Learning to See in the Age of AI | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Alexander Bronstein Learning to See in the Age of AI.pdf>) | [details](./Meetups/Meetup_66/)|
 | 2025-05-22 |  66 | Michael Pieler | Kaggle Winner: WSDM Cup - Multilingual Chatbot Arena | [pdf](<./Meetups/Meetup_66/2025-05-22 66th VDLM Michael Pieler WSDM Cup Winner Multilingual Chatbot Arena.pdf>) | [details](./Meetups/Meetup_66/) |
