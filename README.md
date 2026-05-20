@@ -41,7 +41,10 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
-| 2026-04-28 |  72 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_71/2026-04-28_72nd_VDLM.pdf>) | [details](./Meetups/Meetup_72/) |
+| 2026-05-19 |  73 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_73/2026-05-19 73rd VDLM.pdf>) | [details](./Meetups/Meetup_73/) |
+| 2026-05-19 |  73 | Ionut-Vlad Modoranu | Momentum, Preconditioning, and Beyond: Practical Advances in Optimization | [pdf](<./Meetups/Meetup_73/2026-05.19 VDLM Ionut-Vlad Modoranu Practical Advances in Optimization.pdf>) | [details](./Meetups/Meetup_73/) |
+| 2026-05-19 |  73 | Christian Sobtzick, Sahebeh Dadboud | Cleared for Takeoff: Automatic Speech Recognition in Air Traffic Management | [pdf](<./Meetups/Meetup_73/2026-05-19 VDLM Sobtick Dadboud ASR in Air Traffic Management.pdf>) | [details](./Meetups/Meetup_73/) |
+| 2026-04-28 |  72 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_72/2026-04-28_72nd_VDLM.pdf>) | [details](./Meetups/Meetup_72/) |
 | 2026-04-28 |  72 | Sebastian Böck  | TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning |  | [details](./Meetups/Meetup_72/) |
 | 2026-04-28 |  72 | Andreas Schachl  | Combining technological precision with social responsibility in training data preparation |  | [details](./Meetups/Meetup_72/) |
 | 2026-01-26 |  71 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_71/2026_01_26_71st_VDLM.pdf>) | [details](./Meetups/Meetup_71/) |
