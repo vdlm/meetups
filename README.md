@@ -41,6 +41,8 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
+| 2026-09-24 |  75 | VDLM  | Intro / Annoucements / Jobs | [pdf](<./Meetups/Meetup_75/2026-09-23 75th VDLM.pdf>) | [details](./Meetups/Meetup_75/) |
+| 2026-06-10 |  74 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_74/2026-06-10 74th VDLM.pdf>) | [details](./Meetups/Meetup_74/) |
 | 2026-05-19 |  73 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_73/2026-05-19 73rd VDLM.pdf>) | [details](./Meetups/Meetup_73/) |
 | 2026-05-19 |  73 | Ionut-Vlad Modoranu | Momentum, Preconditioning, and Beyond: Practical Advances in Optimization | [pdf](<./Meetups/Meetup_73/2026-05-19 VDLM Ionut-Vlad Modoranu Practical Advances in Optimization.pdf>) | [details](./Meetups/Meetup_73/) |
 | 2026-05-19 |  73 | Christian Sobtzick, Sahebeh Dadboud | Cleared for Takeoff: Automatic Speech Recognition in Air Traffic Management | [pdf](<./Meetups/Meetup_73/2026-05-19 VDLM Sobtick Dadboud ASR in Air Traffic Management.pdf>) | [details](./Meetups/Meetup_73/) |
