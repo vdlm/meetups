@@ -42,7 +42,11 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
 | 2026-09-24 |  75 | VDLM  | Intro / Annoucements / Jobs | [pdf](<./Meetups/Meetup_75/2026-09-23 75th VDLM.pdf>) | [details](./Meetups/Meetup_75/) |
+| 2026-09-24 |  75 | Jason Hoelscher-Obermaier | Misaligned AI agents are here | [pdf](<./Meetups/Meetup_75/Misaligned AI agents.pdf>) | [details](./Meetups/Meetup_75/) |
+| 2026-09-24 |  75 | Jonas Aaron Vander | Strategies for Scaling LLM Infrastructure | [pdf](<./Meetups/Meetup_75/AI_Inference_Engines_and_Instances.pdf>) | [details](./Meetups/Meetup_75/) |
 | 2026-06-10 |  74 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_74/2026-06-10 74th VDLM.pdf>) | [details](./Meetups/Meetup_74/) |
+| 2026-06-10 |  74 | Hilda Kosorus | Agentic AI Systems in Production | [pdf](<./Meetups/Meetup_74/Agentic_AI_Systems_for_Production.pdf>) | [details](./Meetups/Meetup_74/) |
+| 2026-06-10 |  74 | Riccardo Cadei | Scaling Empiricism in Artificial Causal Inference | [zip](<./Meetups/Meetup_74/2026-06-10 Riccardo Cadei - Scaling Empiricism in Artificial Causal Inference.zip>) | [details](./Meetups/Meetup_74/) |
 | 2026-05-19 |  73 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_73/2026-05-19 73rd VDLM.pdf>) | [details](./Meetups/Meetup_73/) |
 | 2026-05-19 |  73 | Ionut-Vlad Modoranu | Momentum, Preconditioning, and Beyond: Practical Advances in Optimization | [pdf](<./Meetups/Meetup_73/2026-05-19 VDLM Ionut-Vlad Modoranu Practical Advances in Optimization.pdf>) | [details](./Meetups/Meetup_73/) |
 | 2026-05-19 |  73 | Christian Sobtzick, Sahebeh Dadboud | Cleared for Takeoff: Automatic Speech Recognition in Air Traffic Management | [pdf](<./Meetups/Meetup_73/2026-05-19 VDLM Sobtick Dadboud ASR in Air Traffic Management.pdf>) | [details](./Meetups/Meetup_73/) |
