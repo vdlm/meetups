@@ -41,6 +41,9 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | Date | #  | Speaker | Topic | Slides | Details                         |
 | ---- | -- | ------- | ----- | ------ |---------------------------------|
 |      |    |         |       |        |                                 |
+| 2026-10-21 |  76 | VDLM  | Intro / Annoucements | [pdf](<./Meetups/Meetup_76/2026-10-21 76th VDLM.pdf>) | [details](./Meetups/Meetup_76/) |
+| 2026-10-21 |  76 | Ionut-Vlad Modoranu | MatryoshkaLoRA: Hierarchical Low-Rank Representations for LLM Fine-Tuning | [pdf](<./Meetups/Meetup_76/VDLM-21oct2026-MatryoshkaLoRA.pdf>) | [details](./Meetups/Meetup_76/) |
+| 2026-10-21 |  76 | Benjamin Strasser, Jacob Palecek | On Agent Harnesses and Finding New Abstractions | [pdf](<./Meetups/Meetup_76/Agent-harnesses.pdf>) | [details](./Meetups/Meetup_76/) |
 | 2026-09-24 |  75 | VDLM  | Intro / Annoucements / Jobs | [pdf](<./Meetups/Meetup_75/2026-09-23 75th VDLM.pdf>) | [details](./Meetups/Meetup_75/) |
 | 2026-09-24 |  75 | Jason Hoelscher-Obermaier | Misaligned AI agents are here | [pdf](<./Meetups/Meetup_75/Misaligned AI agents.pdf>) | [details](./Meetups/Meetup_75/) |
 | 2026-09-24 |  75 | Jonas Aaron Vander | Strategies for Scaling LLM Infrastructure | [pdf](<./Meetups/Meetup_75/AI_Inference_Engines_and_Instances.pdf>) | [details](./Meetups/Meetup_75/) |
